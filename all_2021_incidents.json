@@ -2916,7 +2916,7 @@
       "FuelType": null,
       "PercentContained": 100,
       "ControlStatement": null,
-      "ConditionStatement": "<p>The Hungry Fire started on July 31, 2021 off of Quail Canyon Road and Goldhill Road, South of Frazer Park in Los Angeles County..</p>",
+      "ConditionStatement": "<p>The Hungry Fire started on July 31, 2021 off of Quail Canyon Road and Goldhill Road, South of Frazer Park in Los Angeles County.</p>",
       "Counties": [
         "Los Angeles"
       ],
@@ -2924,7 +2924,7 @@
       "SearchDescription": "The Hungry Fire started on July 31, 2021 off of Quail Canyon Road and Goldhill Road, South of Frazer Park in Los Angeles County.",
       "SearchKeywords": null,
       "AdminUnit": "Ventura County Fire",
-      "Updated": "2021-08-06T15:28:09.67Z",
+      "Updated": "2021-08-06T15:46:55.563Z",
       "Started": "2021-07-31T00:00:00Z",
       "Extinguished": "2021-08-01T09:36:42Z",
       "ArchiveYear": 2021,
@@ -8997,7 +8997,7 @@
       "FuelType": null,
       "PercentContained": 100,
       "ControlStatement": null,
-      "ConditionStatement": "<p>The Hungry Fire started on July 31, 2021 off of Quail Canyon Road and Goldhill Road, South of Frazer Park in Los Angeles County..</p>",
+      "ConditionStatement": "<p>The Hungry Fire started on July 31, 2021 off of Quail Canyon Road and Goldhill Road, South of Frazer Park in Los Angeles County.</p>",
       "Counties": [
         "Los Angeles"
       ],
@@ -9005,7 +9005,7 @@
       "SearchDescription": "The Hungry Fire started on July 31, 2021 off of Quail Canyon Road and Goldhill Road, South of Frazer Park in Los Angeles County.",
       "SearchKeywords": null,
       "AdminUnit": "Ventura County Fire",
-      "Updated": "2021-08-06T15:28:09.67Z",
+      "Updated": "2021-08-06T15:46:55.563Z",
       "Started": "2021-07-31T00:00:00Z",
       "Extinguished": "2021-08-01T09:36:42Z",
       "ArchiveYear": 2021,
@@ -14360,7 +14360,7 @@
       "AcresBurnedDisplay": "340",
       "PercentContainedDisplay": "100%",
       "CountiesList": "Los Angeles",
-      "UpdatedDate": "2021-08-06 15:28:09",
+      "UpdatedDate": "2021-08-06 15:46:55",
       "StartedDate": "2021-07-31",
       "AdminUnit": "Ventura County Fire",
       "IncidentTypeDisplay": "Wildfire",
