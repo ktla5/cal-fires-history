@@ -1,0 +1,740 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.329,
+          41.459
+        ]
+      },
+      "properties": {
+        "Name": "Lava Fire",
+        "Final": false,
+        "Updated": "2021-07-07T07:26:14Z",
+        "Started": "2021-06-24T20:35:24Z",
+        "AdminUnit": "Shasta-Trinity National Forest",
+        "AdminUnitUrl": null,
+        "County": "Siskiyou",
+        "Location": "Hotlum Rd and Lumm Rd",
+        "AcresBurned": null,
+        "PercentContained": null,
+        "ControlStatement": null,
+        "AgencyNames": "Shasta-Trinity National Forest ",
+        "Longitude": -122.329,
+        "Latitude": 41.459,
+        "Type": "Wildfire",
+        "UniqueId": "9d7c19c4-f146-4b3e-a4c3-5ea9c3247208",
+        "Url": "https://www.fire.ca.gov/incidents/2021/6/24/lava-fire/",
+        "ExtinguishedDate": "",
+        "ExtinguishedDateOnly": "",
+        "StartedDateOnly": "2021-06-24",
+        "IsActive": true,
+        "CalFireIncident": false,
+        "NotificationDesired": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.3415,
+          39.83203
+        ]
+      },
+      "properties": {
+        "Name": "Beckwourth Complex",
+        "Final": false,
+        "Updated": "2021-08-25T16:45:36Z",
+        "Started": "2021-07-04T09:26:06Z",
+        "AdminUnit": "Plumas National Forest",
+        "AdminUnitUrl": null,
+        "County": "Plumas",
+        "Location": "northeast of Beckwourth",
+        "AcresBurned": null,
+        "PercentContained": null,
+        "ControlStatement": "Dotta and Sugar Incidents have been combined into the Beckwourth Complex\n•    Dotta 670 acres, 15% contained\n•    Sugar 471 acres, 24% contained",
+        "AgencyNames": "Plumas National Forest",
+        "Longitude": -120.3415,
+        "Latitude": 39.83203,
+        "Type": "Wildfire",
+        "UniqueId": "882f419d-ff9e-4533-b8da-a428ffcfec6e",
+        "Url": "https://www.fire.ca.gov/incidents/2021/7/4/beckwourth-complex/",
+        "ExtinguishedDate": "",
+        "ExtinguishedDateOnly": "",
+        "StartedDateOnly": "2021-07-04",
+        "IsActive": true,
+        "CalFireIncident": false,
+        "NotificationDesired": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.389439,
+          39.871306
+        ]
+      },
+      "properties": {
+        "Name": "Dixie Fire",
+        "Final": false,
+        "Updated": "2021-08-30T16:29:34Z",
+        "Started": "2021-07-14T00:00:00Z",
+        "AdminUnit": "Unified Command: CAL FIRE Butte Unit/Butte County Fire Department, Lassen National Forest and National Park Service",
+        "AdminUnitUrl": null,
+        "County": "Butte, Tehama, Plumas, Shasta, Lassen",
+        "Location": "Above the Cresta Dam, Feather River Canyon",
+        "AcresBurned": 771183,
+        "PercentContained": 48,
+        "ControlStatement": null,
+        "AgencyNames": "Butte County Sheriff Office , Butte County Sheriff's Office, Plumas County Sheriff's Office, Lassen County Sheriff's Office, Tehama County Sheriff's Office, Shasta County Sheriff's Office, CHP, PG&E, CAL OES, CAL-EMSA, California National Guard, California Conservation Corps, CAL TRANS, Sierra Pacific Industries, W.M. Beaty and Associates, Collins Pine, California Department of Corrections, Burlington Northern Santa Fe Railroad, Union Pacific Railroad",
+        "Longitude": -121.389439,
+        "Latitude": 39.871306,
+        "Type": "Wildfire",
+        "UniqueId": "00016d5d-1647-49e4-a02a-abf46b8480ae",
+        "Url": "https://www.fire.ca.gov/incidents/2021/7/14/dixie-fire/",
+        "ExtinguishedDate": "",
+        "ExtinguishedDateOnly": "",
+        "StartedDateOnly": "2021-07-14",
+        "IsActive": true,
+        "CalFireIncident": true,
+        "NotificationDesired": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.8591887,
+          38.6280042
+        ]
+      },
+      "properties": {
+        "Name": "Tamarack Fire",
+        "Final": false,
+        "Updated": "2021-08-25T16:45:57Z",
+        "Started": "2021-07-04T11:57:58Z",
+        "AdminUnit": "Humboldt-Toiyabe National Forest",
+        "AdminUnitUrl": null,
+        "County": "Alpine",
+        "Location": "Pleasant Valley, Southwest of Markleeville",
+        "AcresBurned": null,
+        "PercentContained": null,
+        "ControlStatement": null,
+        "AgencyNames": "Humboldt-Toiyabe National Forest",
+        "Longitude": -119.8591887,
+        "Latitude": 38.6280042,
+        "Type": "Wildfire",
+        "UniqueId": "3a281cd5-4d2b-47a7-89b7-1194e921805a",
+        "Url": "https://www.fire.ca.gov/incidents/2021/7/4/tamarack-fire/",
+        "ExtinguishedDate": "",
+        "ExtinguishedDateOnly": "",
+        "StartedDateOnly": "2021-07-04",
+        "IsActive": true,
+        "CalFireIncident": false,
+        "NotificationDesired": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.0374,
+          40.31848
+        ]
+      },
+      "properties": {
+        "Name": "McFarland Fire",
+        "Final": false,
+        "Updated": "2021-08-28T20:30:43Z",
+        "Started": "2021-07-30T18:44:00Z",
+        "AdminUnit": "Shasta-Trinity National Forest",
+        "AdminUnitUrl": null,
+        "County": "Shasta, Trinity, Tehama",
+        "Location": "McFarland Ridge and Baker Flat, west of Platina",
+        "AcresBurned": null,
+        "PercentContained": null,
+        "ControlStatement": null,
+        "AgencyNames": "Shasta-Trinity National Forest",
+        "Longitude": -123.0374,
+        "Latitude": 40.31848,
+        "Type": "Fire",
+        "UniqueId": "d0174b70-8652-4242-bf7f-b00e98a48319",
+        "Url": "https://www.fire.ca.gov/incidents/2021/7/30/mcfarland-fire/",
+        "ExtinguishedDate": "",
+        "ExtinguishedDateOnly": "",
+        "StartedDateOnly": "2021-07-30",
+        "IsActive": true,
+        "CalFireIncident": false,
+        "NotificationDesired": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.9154934,
+          41.5289901
+        ]
+      },
+      "properties": {
+        "Name": "Antelope Fire",
+        "Final": false,
+        "Updated": "2021-08-04T11:02:37Z",
+        "Started": "2021-08-01T11:28:25Z",
+        "AdminUnit": "Klamath National Forest",
+        "AdminUnitUrl": null,
+        "County": "Siskiyou",
+        "Location": "Antelope Creek and Forest Road 41N28, south of Tennant",
+        "AcresBurned": null,
+        "PercentContained": null,
+        "ControlStatement": null,
+        "AgencyNames": "Klamath National Forest",
+        "Longitude": -121.9154934,
+        "Latitude": 41.5289901,
+        "Type": "Wildfire",
+        "UniqueId": "dc3380c7-ff32-4062-a4e8-be99b655f2c6",
+        "Url": "https://www.fire.ca.gov/incidents/2021/8/1/antelope-fire/",
+        "ExtinguishedDate": "",
+        "ExtinguishedDateOnly": "",
+        "StartedDateOnly": "2021-08-01",
+        "IsActive": true,
+        "CalFireIncident": false,
+        "NotificationDesired": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.337,
+          40.752
+        ]
+      },
+      "properties": {
+        "Name": "Monument Fire",
+        "Final": false,
+        "Updated": "2021-08-30T08:39:41Z",
+        "Started": "2021-07-30T00:00:00Z",
+        "AdminUnit": "Unified Command: CAL FIRE and Shasta Trinity National Forest",
+        "AdminUnitUrl": null,
+        "County": "Trinity",
+        "Location": "Del Loma, CA near Monument Peak",
+        "AcresBurned": 164746,
+        "PercentContained": 29,
+        "ControlStatement": null,
+        "AgencyNames": "Shasta Trinity National Forest, Cooperating Agencies: California Highway Patrol, CalTrans, Trinity County Sheriff’s, Trinity County OES, Trinity County Public Utilities District, California Department of Corrections and Rehabilitation, California Conservation Corps, California National Guard, California Governor’s Office of Emergency Services, Hayfork Fire, Weaverville Fire, Junction City Fire, State of Washington, State of Arizona, State of Oklahoma, State of Alaska, State of Wisconsin, State of New Hampshire, State of Kentucky, State of Montana",
+        "Longitude": -123.337,
+        "Latitude": 40.752,
+        "Type": "Wildfire",
+        "UniqueId": "1d1bb813-5955-438a-a2cd-0e2d46074f1a",
+        "Url": "https://www.fire.ca.gov/incidents/2021/7/30/monument-fire/",
+        "ExtinguishedDate": "",
+        "ExtinguishedDateOnly": "",
+        "StartedDateOnly": "2021-07-30",
+        "IsActive": true,
+        "CalFireIncident": true,
+        "NotificationDesired": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.057,
+          41.389
+        ]
+      },
+      "properties": {
+        "Name": "River Complex",
+        "Final": false,
+        "Updated": "2021-08-26T08:24:49Z",
+        "Started": "2021-07-30T18:17:40Z",
+        "AdminUnit": "Klamath National Forest",
+        "AdminUnitUrl": null,
+        "County": "Siskiyou, Trinity",
+        "Location": "Scott Salmon Ranger District, west of Callahan",
+        "AcresBurned": null,
+        "PercentContained": null,
+        "ControlStatement": null,
+        "AgencyNames": "Klamath National Forest",
+        "Longitude": -123.057,
+        "Latitude": 41.389,
+        "Type": "Wildfire",
+        "UniqueId": "9284625d-a9bd-447b-b215-a40fe4a52697",
+        "Url": "https://www.fire.ca.gov/incidents/2021/7/30/river-complex/",
+        "ExtinguishedDate": "",
+        "ExtinguishedDateOnly": "",
+        "StartedDateOnly": "2021-07-30",
+        "IsActive": true,
+        "CalFireIncident": false,
+        "NotificationDesired": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.537833,
+          38.586
+        ]
+      },
+      "properties": {
+        "Name": "Caldor Fire",
+        "Final": false,
+        "Updated": "2021-08-30T15:34:56Z",
+        "Started": "2021-08-14T00:00:00Z",
+        "AdminUnit": "Unified Command: CAL FIRE Amador-El Dorado Unit and El Dorado National Forest",
+        "AdminUnitUrl": null,
+        "County": "El Dorado",
+        "Location": "East of Omo Ranch, South of the community of Grizzly Flats",
+        "AcresBurned": 177260,
+        "PercentContained": 14,
+        "ControlStatement": null,
+        "AgencyNames": "El Dorado National Forest, El Dorado County Sheriff's Office, Pioneer Fire District , Cooperating Agencies: El Dorado County Sheriff’s Office, Sierra Pacific Industries, Pioneer FD, PG&E, CHP, El Dorado Irrigation District, El Dorado County, Grizzly Flats Community Service District, SMUD, Amador County Sheriff’s Office, AT&T, Georgetown FD, CALTRANS, Indian Diggins School District, El Dorado County FD, Grizzly Flats Water District, Volcano Telephone, Placerville FD, El Dorado County DOT, Mosquito FD, Garden Valley FD, Cal OES Fire, El Dorado County EMSA, El Dorado County Office of Education, Marshall Medical Center, Shingle Springs Band of Miwok Indians FD, State Water Resources Control Board, KAMPS, El Dorado County Department of Agriculture, Barton Health, CAL EPA, Lake Valley Fire District, and Verizon",
+        "Longitude": -120.537833,
+        "Latitude": 38.586,
+        "Type": "Wildfire",
+        "UniqueId": "a21c4d1f-87ed-4db1-85ea-eae41c90a0ac",
+        "Url": "https://www.fire.ca.gov/incidents/2021/8/14/caldor-fire/",
+        "ExtinguishedDate": "",
+        "ExtinguishedDateOnly": "",
+        "StartedDateOnly": "2021-08-14",
+        "IsActive": true,
+        "CalFireIncident": false,
+        "NotificationDesired": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.555,
+          36.268
+        ]
+      },
+      "properties": {
+        "Name": "Walkers Fire",
+        "Final": false,
+        "Updated": "2021-08-17T10:49:42Z",
+        "Started": "2021-08-16T16:05:54Z",
+        "AdminUnit": "Sequoia National Forest",
+        "AdminUnitUrl": null,
+        "County": "Tulare",
+        "Location": "North of Alpine Creek, northeast of Springville",
+        "AcresBurned": null,
+        "PercentContained": null,
+        "ControlStatement": null,
+        "AgencyNames": "Sequoia National Forest ",
+        "Longitude": -118.555,
+        "Latitude": 36.268,
+        "Type": "Wildfire",
+        "UniqueId": "2eae3252-74cd-4e96-b25a-20ed828395e2",
+        "Url": "https://www.fire.ca.gov/incidents/2021/8/16/walkers-fire/",
+        "ExtinguishedDate": "",
+        "ExtinguishedDateOnly": "",
+        "StartedDateOnly": "2021-08-16",
+        "IsActive": true,
+        "CalFireIncident": false,
+        "NotificationDesired": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.601395,
+          38.928133
+        ]
+      },
+      "properties": {
+        "Name": "Cache Fire",
+        "Final": false,
+        "Updated": "2021-08-27T17:22:41Z",
+        "Started": "2021-08-18T12:34:00Z",
+        "AdminUnit": "Lake County Fire Protection District",
+        "AdminUnitUrl": null,
+        "County": "Lake",
+        "Location": "Dam Rd and Wilkinson Ave, Clearlake",
+        "AcresBurned": null,
+        "PercentContained": null,
+        "ControlStatement": null,
+        "AgencyNames": "Lake County Fire Protection District, Lake County Sheriff’s Office ",
+        "Longitude": -122.601395,
+        "Latitude": 38.928133,
+        "Type": "Wildfire",
+        "UniqueId": "8e3e3fe1-669f-4cf8-80ee-c8df14929a22",
+        "Url": "https://www.fire.ca.gov/incidents/2021/8/18/cache-fire/",
+        "ExtinguishedDate": "",
+        "ExtinguishedDateOnly": "",
+        "StartedDateOnly": "2021-08-18",
+        "IsActive": true,
+        "CalFireIncident": false,
+        "NotificationDesired": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.404,
+          41.564
+        ]
+      },
+      "properties": {
+        "Name": "McCash Fire",
+        "Final": false,
+        "Updated": "2021-08-18T14:26:21Z",
+        "Started": "2021-08-18T08:50:00Z",
+        "AdminUnit": "Six Rivers National Forest",
+        "AdminUnitUrl": null,
+        "County": "Siskiyou",
+        "Location": "Ten Bear Mtn McCash Creek",
+        "AcresBurned": null,
+        "PercentContained": null,
+        "ControlStatement": null,
+        "AgencyNames": "Six Rivers National Forest ",
+        "Longitude": -123.404,
+        "Latitude": 41.564,
+        "Type": "Fire",
+        "UniqueId": "87b59fb2-01f9-4469-8578-87c55b090eac",
+        "Url": "https://www.fire.ca.gov/incidents/2021/8/18/mccash-fire/",
+        "ExtinguishedDate": "",
+        "ExtinguishedDateOnly": "",
+        "StartedDateOnly": "2021-08-18",
+        "IsActive": true,
+        "CalFireIncident": false,
+        "NotificationDesired": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.501515,
+          35.674926
+        ]
+      },
+      "properties": {
+        "Name": "French Fire",
+        "Final": false,
+        "Updated": "2021-08-30T10:31:21Z",
+        "Started": "2021-08-18T16:25:00Z",
+        "AdminUnit": "Kern County Fire",
+        "AdminUnitUrl": null,
+        "County": "Kern",
+        "Location": "Sawmill Rd and NF-25S02, 5 west of Lake Isabella",
+        "AcresBurned": 25264,
+        "PercentContained": 26,
+        "ControlStatement": null,
+        "AgencyNames": "Kern County Fire , Sequoia National Forest, Central California District Bureau of Land Management, ",
+        "Longitude": -118.501515,
+        "Latitude": 35.674926,
+        "Type": "Wildfire",
+        "UniqueId": "11804a96-faa3-4671-b420-6591e4e95f49",
+        "Url": "https://www.fire.ca.gov/incidents/2021/8/18/french-fire/",
+        "ExtinguishedDate": "",
+        "ExtinguishedDateOnly": "",
+        "StartedDateOnly": "2021-08-18",
+        "IsActive": true,
+        "CalFireIncident": true,
+        "NotificationDesired": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.454797,
+          38.038795
+        ]
+      },
+      "properties": {
+        "Name": "Airola Fire",
+        "Final": false,
+        "Updated": "2021-08-30T07:09:49Z",
+        "Started": "2021-08-25T14:55:00Z",
+        "AdminUnit": "CAL FIRE Tuolumne-Calaveras Unit",
+        "AdminUnitUrl": null,
+        "County": "Calaveras",
+        "Location": "Parrotts Ferry Rd and Airola Rd, west of Columbia",
+        "AcresBurned": 639,
+        "PercentContained": 75,
+        "ControlStatement": null,
+        "AgencyNames": "Cooperating Agencies: California Highway Patrol, Calaveras County Sheriff’s, Calaveras County OES, California Department of Corrections and Rehabilitation, California Conservation Corps",
+        "Longitude": -120.454797,
+        "Latitude": 38.038795,
+        "Type": "Wildfire",
+        "UniqueId": "7b6a10b8-58fb-4906-ad11-dc88fe5b7872",
+        "Url": "https://www.fire.ca.gov/incidents/2021/8/25/airola-fire/",
+        "ExtinguishedDate": "",
+        "ExtinguishedDateOnly": "",
+        "StartedDateOnly": "2021-08-25",
+        "IsActive": true,
+        "CalFireIncident": true,
+        "NotificationDesired": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.440263,
+          34.186147
+        ]
+      },
+      "properties": {
+        "Name": "South Fire",
+        "Final": false,
+        "Updated": "2021-08-28T20:29:52Z",
+        "Started": "2021-08-25T16:11:00Z",
+        "AdminUnit": "San Bernardino National Forest",
+        "AdminUnitUrl": null,
+        "County": "San Bernardino",
+        "Location": "North of Glen Helen, east of Sierra Ave. and Lytle Creek Rd. west of the 15 Fwy.",
+        "AcresBurned": null,
+        "PercentContained": null,
+        "ControlStatement": null,
+        "AgencyNames": "San Bernardino National Forest , San Bernardino NF link to Inciweb: ",
+        "Longitude": -117.440263,
+        "Latitude": 34.186147,
+        "Type": "Wildfire",
+        "UniqueId": "4cfd11fa-b33f-4de6-8d17-bbaa27b2c9cb",
+        "Url": "https://www.fire.ca.gov/incidents/2021/8/25/south-fire/",
+        "ExtinguishedDate": "",
+        "ExtinguishedDateOnly": "",
+        "StartedDateOnly": "2021-08-25",
+        "IsActive": true,
+        "CalFireIncident": false,
+        "NotificationDesired": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.402221,
+          37.962933
+        ]
+      },
+      "properties": {
+        "Name": "Washington Fire",
+        "Final": false,
+        "Updated": "2021-08-30T07:02:52Z",
+        "Started": "2021-08-26T13:20:00Z",
+        "AdminUnit": "Unified Command: CAL FIRE Tuolumne-Calaveras Unit & City of Sonora",
+        "AdminUnitUrl": null,
+        "County": "Tuolumne",
+        "Location": "Golf Links Road and Highway 108, West of Sonora",
+        "AcresBurned": 100,
+        "PercentContained": 50,
+        "ControlStatement": null,
+        "AgencyNames": "California Highway Patrol, Calaveras County Sheriff’s, Calaveras County OES, California Department of Corrections and Rehabilitation, California Conservation Corps, City of Sonora",
+        "Longitude": -120.402221,
+        "Latitude": 37.962933,
+        "Type": "Wildfire",
+        "UniqueId": "726eeb97-b91c-4555-a180-be16e599466f",
+        "Url": "https://www.fire.ca.gov/incidents/2021/8/26/washington-fire/",
+        "ExtinguishedDate": "",
+        "ExtinguishedDateOnly": "",
+        "StartedDateOnly": "2021-08-26",
+        "IsActive": true,
+        "CalFireIncident": true,
+        "NotificationDesired": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.4546,
+          34.25145
+        ]
+      },
+      "properties": {
+        "Name": "Roadside Fire",
+        "Final": false,
+        "Updated": "2021-08-28T15:13:44Z",
+        "Started": "2021-08-28T11:25:00Z",
+        "AdminUnit": "San Bernardino National Forest & San Bernardino County Fire",
+        "AdminUnitUrl": null,
+        "County": "San Bernardino",
+        "Location": "Cajon Pass near Keenbrook Road and Cajon Blvd.",
+        "AcresBurned": null,
+        "PercentContained": null,
+        "ControlStatement": null,
+        "AgencyNames": "San Bernardino National Forest, San Bernardino County Fire",
+        "Longitude": -117.4546,
+        "Latitude": 34.25145,
+        "Type": "Wildfire",
+        "UniqueId": "9f0d7a3b-ae47-42a5-b360-ea2f4141cad4",
+        "Url": "https://www.fire.ca.gov/incidents/2021/8/28/roadside-fire/",
+        "ExtinguishedDate": "",
+        "ExtinguishedDateOnly": "",
+        "StartedDateOnly": "2021-08-28",
+        "IsActive": true,
+        "CalFireIncident": false,
+        "NotificationDesired": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.39309,
+          33.484721
+        ]
+      },
+      "properties": {
+        "Name": "Chaparral Fire",
+        "Final": false,
+        "Updated": "2021-08-30T11:55:56Z",
+        "Started": "2021-08-28T00:00:00Z",
+        "AdminUnit": "Unified Command: CAL FIRE Riverside County Fire, Cleveland National Forest",
+        "AdminUnitUrl": null,
+        "County": "Riverside, San Diego",
+        "Location": "Cleveland Forest Road and Tenaja Road southwest of Murrieta in San Diego County.",
+        "AcresBurned": 1427,
+        "PercentContained": 13,
+        "ControlStatement": null,
+        "AgencyNames": "",
+        "Longitude": -117.39309,
+        "Latitude": 33.484721,
+        "Type": "Wildfire",
+        "UniqueId": "64a7c61a-5634-410a-a1c4-aeb97b2283e0",
+        "Url": "https://www.fire.ca.gov/incidents/2021/8/28/chaparral-fire/",
+        "ExtinguishedDate": "",
+        "ExtinguishedDateOnly": "",
+        "StartedDateOnly": "2021-08-28",
+        "IsActive": true,
+        "CalFireIncident": true,
+        "NotificationDesired": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.466,
+          34.34
+        ]
+      },
+      "properties": {
+        "Name": "Railroad Fire",
+        "Final": false,
+        "Updated": "2021-08-29T14:56:18Z",
+        "Started": "2021-08-29T12:50:00Z",
+        "AdminUnit": "San Bernardino National Forest",
+        "AdminUnitUrl": null,
+        "County": "San Bernardino",
+        "Location": "Cajon Pass near NB I-15 and Baldy Mesa",
+        "AcresBurned": null,
+        "PercentContained": null,
+        "ControlStatement": null,
+        "AgencyNames": "San Bernardino National Forest",
+        "Longitude": -117.466,
+        "Latitude": 34.34,
+        "Type": "Fire",
+        "UniqueId": "cd7d799d-cc81-4ffb-9d55-4e2b18b92d34",
+        "Url": "https://www.fire.ca.gov/incidents/2021/8/29/railroad-fire/",
+        "ExtinguishedDate": "",
+        "ExtinguishedDateOnly": "",
+        "StartedDateOnly": "2021-08-29",
+        "IsActive": true,
+        "CalFireIncident": false,
+        "NotificationDesired": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.6744,
+          40.8652
+        ]
+      },
+      "properties": {
+        "Name": "Knob Fire",
+        "Final": false,
+        "Updated": "2021-08-30T10:06:41Z",
+        "Started": "2021-08-30T00:00:00Z",
+        "AdminUnit": "Six Rivers National Forest",
+        "AdminUnitUrl": null,
+        "County": "Humboldt",
+        "Location": "Friday Spur Rd & China Creek, south of Willow Creek",
+        "AcresBurned": null,
+        "PercentContained": null,
+        "ControlStatement": null,
+        "AgencyNames": "Six Rivers National Forest ",
+        "Longitude": -123.6744,
+        "Latitude": 40.8652,
+        "Type": "Wildfire",
+        "UniqueId": "d7b908db-7184-4f9e-923f-f811688cf4eb",
+        "Url": "https://www.fire.ca.gov/incidents/2021/8/30/knob-fire/",
+        "ExtinguishedDate": "",
+        "ExtinguishedDateOnly": "",
+        "StartedDateOnly": "2021-08-30",
+        "IsActive": true,
+        "CalFireIncident": false,
+        "NotificationDesired": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.52733,
+          41.03877
+        ]
+      },
+      "properties": {
+        "Name": "K-Rail",
+        "Final": true,
+        "Updated": "2021-08-30T13:50:24Z",
+        "Started": "2021-08-30T13:30:00Z",
+        "AdminUnit": "Six Rivers National Forest & Hoopa BIA",
+        "AdminUnitUrl": null,
+        "County": "Humboldt",
+        "Location": "Tish Tang Ridge, southeast of Hoopa",
+        "AcresBurned": null,
+        "PercentContained": null,
+        "ControlStatement": null,
+        "AgencyNames": "",
+        "Longitude": -123.52733,
+        "Latitude": 41.03877,
+        "Type": "Wildfire",
+        "UniqueId": "af05ba27-9105-4776-83a8-8ea786117476",
+        "Url": "https://www.fire.ca.gov/incidents/2021/8/30/k-rail/",
+        "ExtinguishedDate": "",
+        "ExtinguishedDateOnly": "",
+        "StartedDateOnly": "2021-08-30",
+        "IsActive": true,
+        "CalFireIncident": false,
+        "NotificationDesired": false
+      }
+    }
+  ]
+}
