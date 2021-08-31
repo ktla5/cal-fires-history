@@ -83,7 +83,7 @@
       "properties": {
         "Name": "Dixie Fire",
         "Final": false,
-        "Updated": "2021-08-31T07:48:50Z",
+        "Updated": "2021-08-31T08:55:37Z",
         "Started": "2021-07-14T00:00:00Z",
         "AdminUnit": "Unified Command: CAL FIRE Butte Unit/Butte County Fire Department, Lassen National Forest and National Park Service",
         "AdminUnitUrl": null,
@@ -293,7 +293,7 @@
       "properties": {
         "Name": "Caldor Fire",
         "Final": false,
-        "Updated": "2021-08-31T07:47:16Z",
+        "Updated": "2021-08-31T09:22:04Z",
         "Started": "2021-08-14T00:00:00Z",
         "AdminUnit": "Unified Command: CAL FIRE Amador-El Dorado Unit and El Dorado National Forest",
         "AdminUnitUrl": null,
@@ -433,14 +433,14 @@
       "properties": {
         "Name": "French Fire",
         "Final": false,
-        "Updated": "2021-08-30T19:21:12Z",
-        "Started": "2021-08-18T16:25:00Z",
+        "Updated": "2021-08-31T09:16:43Z",
+        "Started": "2021-08-18T00:00:00Z",
         "AdminUnit": "Kern County Fire",
         "AdminUnitUrl": null,
         "County": "Kern",
         "Location": "Sawmill Rd and NF-25S02, 5 west of Lake Isabella",
-        "AcresBurned": 25411,
-        "PercentContained": 33,
+        "AcresBurned": 25643,
+        "PercentContained": 40,
         "ControlStatement": null,
         "AgencyNames": "Kern County Fire , Sequoia National Forest, Central California District Bureau of Land Management, ",
         "Longitude": -118.501515,
@@ -661,41 +661,6 @@
         "ExtinguishedDate": "",
         "ExtinguishedDateOnly": "",
         "StartedDateOnly": "2021-08-29",
-        "IsActive": true,
-        "CalFireIncident": false,
-        "NotificationDesired": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -123.6744,
-          40.8652
-        ]
-      },
-      "properties": {
-        "Name": "Knob Fire",
-        "Final": false,
-        "Updated": "2021-08-30T10:06:41Z",
-        "Started": "2021-08-30T00:00:00Z",
-        "AdminUnit": "Six Rivers National Forest",
-        "AdminUnitUrl": null,
-        "County": "Humboldt",
-        "Location": "Friday Spur Rd & China Creek, south of Willow Creek",
-        "AcresBurned": null,
-        "PercentContained": null,
-        "ControlStatement": null,
-        "AgencyNames": "Six Rivers National Forest ",
-        "Longitude": -123.6744,
-        "Latitude": 40.8652,
-        "Type": "Wildfire",
-        "UniqueId": "d7b908db-7184-4f9e-923f-f811688cf4eb",
-        "Url": "https://www.fire.ca.gov/incidents/2021/8/30/knob-fire/",
-        "ExtinguishedDate": "",
-        "ExtinguishedDateOnly": "",
-        "StartedDateOnly": "2021-08-30",
         "IsActive": true,
         "CalFireIncident": false,
         "NotificationDesired": false
