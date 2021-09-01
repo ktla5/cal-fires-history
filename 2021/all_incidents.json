@@ -3933,8 +3933,8 @@
       "properties": {
         "Name": "Dixie Fire",
         "Final": false,
-        "Updated": "2021-09-01T07:47:17Z",
-        "Started": "2021-07-14T00:00:00Z",
+        "Updated": "2021-09-01T08:40:32-07:00",
+        "Started": "2021-07-14T00:00:00",
         "AdminUnit": "Unified Command: CAL FIRE Butte Unit/Butte County Fire Department, Lassen National Forest and National Park Service",
         "AdminUnitUrl": null,
         "County": "Butte, Plumas, Tehama, Shasta, Lassen",
@@ -5053,7 +5053,7 @@
       "properties": {
         "Name": "Caldor Fire",
         "Final": false,
-        "Updated": "2021-09-01T07:22:05Z",
+        "Updated": "2021-09-01T08:31:56Z",
         "Started": "2021-08-14T00:00:00Z",
         "AdminUnit": "Unified Command: CAL FIRE Amador-El Dorado Unit and El Dorado National Forest",
         "AdminUnitUrl": null,
