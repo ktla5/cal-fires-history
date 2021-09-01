@@ -3933,8 +3933,8 @@
       "properties": {
         "Name": "Dixie Fire",
         "Final": false,
-        "Updated": "2021-09-01T15:43:33Z",
-        "Started": "2021-07-14T17:15:00Z",
+        "Updated": "2021-09-01T16:21:46-07:00",
+        "Started": "2021-07-14T00:00:00",
         "AdminUnit": "Unified Command: CAL FIRE Butte Unit/Butte County Fire Department, Lassen National Forest and National Park Service",
         "AdminUnitUrl": null,
         "County": "Butte, Tehama, Plumas, Shasta, Lassen",
@@ -5053,7 +5053,7 @@
       "properties": {
         "Name": "Caldor Fire",
         "Final": false,
-        "Updated": "2021-09-01T15:33:40Z",
+        "Updated": "2021-09-01T16:19:19Z",
         "Started": "2021-08-14T00:00:00Z",
         "AdminUnit": "Unified Command: CAL FIRE Amador-El Dorado Unit and El Dorado National Forest",
         "AdminUnitUrl": null,
@@ -5633,6 +5633,41 @@
         "StartedDateOnly": "2021-08-30",
         "IsActive": true,
         "CalFireIncident": false,
+        "NotificationDesired": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6131992,
+          38.0591827
+        ]
+      },
+      "properties": {
+        "Name": "Lassen Fire",
+        "Final": false,
+        "Updated": "2021-09-01T16:10:57Z",
+        "Started": "2021-09-01T14:27:32Z",
+        "AdminUnit": "Lead Agency: Marin County Fire",
+        "AdminUnitUrl": null,
+        "County": "Marin",
+        "Location": "Mt. Lassen Drive and Idylberry Road near Lucas Valley in Marin County.",
+        "AcresBurned": 30,
+        "PercentContained": 0,
+        "ControlStatement": null,
+        "AgencyNames": "Marin County Fire",
+        "Longitude": -122.6131992,
+        "Latitude": 38.0591827,
+        "Type": "Wildfire",
+        "UniqueId": "254e4d5c-a750-41e0-bea3-9eb4597b0a13",
+        "Url": "https://www.fire.ca.gov/incidents/2021/9/1/lassen-fire/",
+        "ExtinguishedDate": "",
+        "ExtinguishedDateOnly": "",
+        "StartedDateOnly": "2021-09-01",
+        "IsActive": true,
+        "CalFireIncident": true,
         "NotificationDesired": false
       }
     }
