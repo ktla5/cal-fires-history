@@ -293,13 +293,13 @@
       "properties": {
         "Name": "Caldor Fire",
         "Final": false,
-        "Updated": "2021-09-01T19:09:37Z",
+        "Updated": "2021-09-01T19:38:36Z",
         "Started": "2021-08-14T00:00:00Z",
         "AdminUnit": "Unified Command: CAL FIRE Amador-El Dorado Unit and El Dorado National Forest",
         "AdminUnitUrl": null,
         "County": "El Dorado, Amador",
         "Location": "East of Omo Ranch, South of the community of Grizzly Flats",
-        "AcresBurned": 2079311,
+        "AcresBurned": 207931,
         "PercentContained": 23,
         "ControlStatement": null,
         "AgencyNames": "El Dorado National Forest, El Dorado County Sheriff's Office, Pioneer Fire District , Cooperating Agencies: El Dorado County Sheriff’s Office, Sierra Pacific Industries, Pioneer FD, PG&E, CHP, El Dorado Irrigation District, El Dorado County, Grizzly Flats Community Service District, SMUD, Amador County Sheriff’s Office, AT&T, Georgetown FD, CALTRANS, Indian Diggins School District, El Dorado County FD, Grizzly Flats Water District, Volcano Telephone, Placerville FD, El Dorado County DOT, Mosquito FD, Garden Valley FD, Cal OES Fire, El Dorado County EMSA, El Dorado County Office of Education, Marshall Medical Center, Shingle Springs Band of Miwok Indians FD, State Water Resources Control Board, KAMPS, El Dorado County Department of Agriculture, Barton Health, CAL EPA, Lake Valley Fire District, and Verizon",
@@ -531,41 +531,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -120.402221,
-          37.962933
-        ]
-      },
-      "properties": {
-        "Name": "Washington Fire",
-        "Final": false,
-        "Updated": "2021-09-01T09:51:20Z",
-        "Started": "2021-08-26T13:20:00Z",
-        "AdminUnit": "Unified Command: CAL FIRE Tuolumne-Calaveras Unit & City of Sonora",
-        "AdminUnitUrl": null,
-        "County": "Tuolumne",
-        "Location": "Golf Links Road and Highway 108, West of Sonora",
-        "AcresBurned": 100,
-        "PercentContained": 85,
-        "ControlStatement": null,
-        "AgencyNames": "California Highway Patrol, Calaveras County Sheriff’s, Calaveras County OES, California Department of Corrections and Rehabilitation, California Conservation Corps, City of Sonora, Stanislaus County, Copperopolis Fire",
-        "Longitude": -120.402221,
-        "Latitude": 37.962933,
-        "Type": "Wildfire",
-        "UniqueId": "726eeb97-b91c-4555-a180-be16e599466f",
-        "Url": "https://www.fire.ca.gov/incidents/2021/8/26/washington-fire/",
-        "ExtinguishedDate": "",
-        "ExtinguishedDateOnly": "",
-        "StartedDateOnly": "2021-08-26",
-        "IsActive": true,
-        "CalFireIncident": true,
-        "NotificationDesired": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -117.4546,
           34.25145
         ]
@@ -608,14 +573,14 @@
       "properties": {
         "Name": "Chaparral Fire",
         "Final": false,
-        "Updated": "2021-09-01T09:50:03Z",
+        "Updated": "2021-09-01T19:42:42Z",
         "Started": "2021-08-28T12:40:00Z",
-        "AdminUnit": "Unified Command: CAL FIRE Riverside County Fire, Cleveland National Forest",
+        "AdminUnit": "Cleveland National Forest",
         "AdminUnitUrl": null,
         "County": "Riverside, San Diego",
         "Location": "Cleveland Forest Road and Tenaja Road southwest of Murrieta in San Diego County.",
-        "AcresBurned": 1427,
-        "PercentContained": 80,
+        "AcresBurned": null,
+        "PercentContained": null,
         "ControlStatement": null,
         "AgencyNames": "",
         "Longitude": -117.39309,
@@ -627,7 +592,7 @@
         "ExtinguishedDateOnly": "",
         "StartedDateOnly": "2021-08-28",
         "IsActive": true,
-        "CalFireIncident": true,
+        "CalFireIncident": false,
         "NotificationDesired": false
       }
     },
