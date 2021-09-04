@@ -398,13 +398,13 @@
       "properties": {
         "Name": "French Fire",
         "Final": false,
-        "Updated": "2021-09-03T18:54:37Z",
+        "Updated": "2021-09-04T07:02:40Z",
         "Started": "2021-08-18T18:20:00Z",
         "AdminUnit": "Kern County Fire",
         "AdminUnitUrl": null,
         "County": "Kern",
         "Location": "Sawmill Rd and NF-25S02, 5 west of Lake Isabella",
-        "AcresBurned": 25871,
+        "AcresBurned": 25895,
         "PercentContained": 47,
         "ControlStatement": null,
         "AgencyNames": "Kern County Fire , Sequoia National Forest, Central California District Bureau of Land Management, ",
@@ -416,41 +416,6 @@
         "ExtinguishedDate": "",
         "ExtinguishedDateOnly": "",
         "StartedDateOnly": "2021-08-18",
-        "IsActive": true,
-        "CalFireIncident": true,
-        "NotificationDesired": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.454797,
-          38.038795
-        ]
-      },
-      "properties": {
-        "Name": "Airola Fire",
-        "Final": false,
-        "Updated": "2021-09-03T20:01:23Z",
-        "Started": "2021-08-25T14:55:00Z",
-        "AdminUnit": "CAL FIRE Tuolumne-Calaveras Unit",
-        "AdminUnitUrl": null,
-        "County": "Calaveras",
-        "Location": "Parrotts Ferry Rd and Airola Rd, west of Columbia",
-        "AcresBurned": 639,
-        "PercentContained": 95,
-        "ControlStatement": null,
-        "AgencyNames": "Cooperating Agencies: California Highway Patrol, Calaveras County Sheriff’s, Calaveras County OES, California Department of Corrections and Rehabilitation, California Conservation Corps",
-        "Longitude": -120.454797,
-        "Latitude": 38.038795,
-        "Type": "Wildfire",
-        "UniqueId": "7b6a10b8-58fb-4906-ad11-dc88fe5b7872",
-        "Url": "https://www.fire.ca.gov/incidents/2021/8/25/airola-fire/",
-        "ExtinguishedDate": "",
-        "ExtinguishedDateOnly": "",
-        "StartedDateOnly": "2021-08-25",
         "IsActive": true,
         "CalFireIncident": true,
         "NotificationDesired": false
