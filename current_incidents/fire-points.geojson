@@ -188,14 +188,14 @@
       "properties": {
         "Name": "Monument Fire",
         "Final": false,
-        "Updated": "2021-09-03T17:10:09Z",
+        "Updated": "2021-09-03T18:51:42Z",
         "Started": "2021-07-30T12:28:00Z",
         "AdminUnit": "Unified Command: CAL FIRE and Shasta Trinity National Forest",
         "AdminUnitUrl": null,
         "County": "Trinity",
         "Location": "Del Loma, CA near Monument Peak",
-        "AcresBurned": 177222,
-        "PercentContained": 33,
+        "AcresBurned": 178069,
+        "PercentContained": 35,
         "ControlStatement": null,
         "AgencyNames": "Shasta Trinity National Forest, Cooperating Agencies: California Highway Patrol, CalTrans, Trinity County Sheriff’s, Trinity County OES, Trinity County Public Utilities District, California Department of Corrections and Rehabilitation, California Conservation Corps, California National Guard, California Governor’s Office of Emergency Services, Hayfork Fire, Weaverville Fire, Junction City Fire, State of Washington, State of Arizona, State of Oklahoma, State of Alaska, State of Wisconsin, State of New Hampshire, State of Kentucky, State of Montana",
         "Longitude": -123.337,
@@ -258,7 +258,7 @@
       "properties": {
         "Name": "Caldor Fire",
         "Final": false,
-        "Updated": "2021-09-03T18:03:01Z",
+        "Updated": "2021-09-03T18:47:12Z",
         "Started": "2021-08-14T18:54:00Z",
         "AdminUnit": "Unified Command: CAL FIRE Amador-El Dorado Unit and El Dorado National Forest",
         "AdminUnitUrl": null,
@@ -398,14 +398,14 @@
       "properties": {
         "Name": "French Fire",
         "Final": false,
-        "Updated": "2021-09-03T08:23:40Z",
+        "Updated": "2021-09-03T18:54:37Z",
         "Started": "2021-08-18T18:20:00Z",
         "AdminUnit": "Kern County Fire",
         "AdminUnitUrl": null,
         "County": "Kern",
         "Location": "Sawmill Rd and NF-25S02, 5 west of Lake Isabella",
         "AcresBurned": 25871,
-        "PercentContained": 43,
+        "PercentContained": 47,
         "ControlStatement": null,
         "AgencyNames": "Kern County Fire , Sequoia National Forest, Central California District Bureau of Land Management, ",
         "Longitude": -118.501515,
@@ -558,41 +558,6 @@
         "StartedDateOnly": "2021-08-30",
         "IsActive": true,
         "CalFireIncident": false,
-        "NotificationDesired": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.6131992,
-          38.0591827
-        ]
-      },
-      "properties": {
-        "Name": "Lassen Fire",
-        "Final": false,
-        "Updated": "2021-09-03T08:03:47Z",
-        "Started": "2021-09-01T14:27:00Z",
-        "AdminUnit": "Lead Agency: Marin County Fire",
-        "AdminUnitUrl": null,
-        "County": "Marin",
-        "Location": "Mt. Lassen Drive and Idylberry Road near Lucas Valley in Marin County.",
-        "AcresBurned": 44,
-        "PercentContained": 90,
-        "ControlStatement": null,
-        "AgencyNames": "Marin County Fire",
-        "Longitude": -122.6131992,
-        "Latitude": 38.0591827,
-        "Type": "Wildfire",
-        "UniqueId": "254e4d5c-a750-41e0-bea3-9eb4597b0a13",
-        "Url": "https://www.fire.ca.gov/incidents/2021/9/1/lassen-fire/",
-        "ExtinguishedDate": "",
-        "ExtinguishedDateOnly": "",
-        "StartedDateOnly": "2021-09-01",
-        "IsActive": true,
-        "CalFireIncident": true,
         "NotificationDesired": false
       }
     }
