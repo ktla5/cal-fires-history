@@ -538,7 +538,7 @@
       "properties": {
         "Name": "Lawrence Fire",
         "Final": false,
-        "Updated": "2021-09-05T12:09:47Z",
+        "Updated": "2021-09-05T12:16:19Z",
         "Started": "2021-09-05T10:40:20Z",
         "AdminUnit": "CAL FIRE Amador-El Dorado Unit",
         "AdminUnitUrl": null,
@@ -557,7 +557,7 @@
         "ExtinguishedDateOnly": "",
         "StartedDateOnly": "2021-09-05",
         "IsActive": true,
-        "CalFireIncident": false,
+        "CalFireIncident": true,
         "NotificationDesired": false
       }
     }
