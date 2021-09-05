@@ -5740,6 +5740,41 @@
         "CalFireIncident": true,
         "NotificationDesired": false
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.10508,
+          33.38551
+        ]
+      },
+      "properties": {
+        "Name": "Aruba Fire",
+        "Final": false,
+        "Updated": "2021-09-05T16:46:10Z",
+        "Started": "2021-09-05T15:50:14Z",
+        "AdminUnit": "Cal Fire San Diego County",
+        "AdminUnitUrl": null,
+        "County": "San Diego",
+        "Location": "Southeast of the community of Rainbow",
+        "AcresBurned": 10,
+        "PercentContained": 0,
+        "ControlStatement": null,
+        "AgencyNames": "",
+        "Longitude": -117.10508,
+        "Latitude": 33.38551,
+        "Type": "Wildfire",
+        "UniqueId": "257ee7b8-fe14-45ac-ba58-4fae7003f6de",
+        "Url": "https://www.fire.ca.gov/incidents/2021/9/5/aruba-fire/",
+        "ExtinguishedDate": "",
+        "ExtinguishedDateOnly": "",
+        "StartedDateOnly": "2021-09-05",
+        "IsActive": true,
+        "CalFireIncident": false,
+        "NotificationDesired": false
+      }
     }
   ]
 }
