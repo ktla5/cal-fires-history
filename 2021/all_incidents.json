@@ -3933,7 +3933,7 @@
       "properties": {
         "Name": "Dixie Fire",
         "Final": false,
-        "Updated": "2021-09-05T07:46:22Z",
+        "Updated": "2021-09-05T13:55:55Z",
         "Started": "2021-07-14T17:15:00Z",
         "AdminUnit": "Unified Command: CAL FIRE Butte Unit/Butte County Fire Department, Lassen National Forest and National Park Service",
         "AdminUnitUrl": null,
@@ -5683,14 +5683,14 @@
       "properties": {
         "Name": "Lawrence Fire",
         "Final": false,
-        "Updated": "2021-09-05T12:16:19Z",
+        "Updated": "2021-09-05T14:11:30Z",
         "Started": "2021-09-05T10:40:20Z",
         "AdminUnit": "CAL FIRE Amador-El Dorado Unit",
         "AdminUnitUrl": null,
         "County": "Amador",
         "Location": "Lawrence Rd and Tyler Rd., northeast of Fiddletown",
         "AcresBurned": 40,
-        "PercentContained": 0,
+        "PercentContained": 15,
         "ControlStatement": null,
         "AgencyNames": "",
         "Longitude": -120.731748,
@@ -5698,6 +5698,41 @@
         "Type": "Wildfire",
         "UniqueId": "5ddee2f6-f32b-4664-a416-5cf4996290a5",
         "Url": "https://www.fire.ca.gov/incidents/2021/9/5/lawrence-fire/",
+        "ExtinguishedDate": "",
+        "ExtinguishedDateOnly": "",
+        "StartedDateOnly": "2021-09-05",
+        "IsActive": true,
+        "CalFireIncident": true,
+        "NotificationDesired": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.038575,
+          38.921839
+        ]
+      },
+      "properties": {
+        "Name": "Bridge Fire",
+        "Final": false,
+        "Updated": "2021-09-05T14:08:34Z",
+        "Started": "2021-09-05T12:53:14Z",
+        "AdminUnit": "CALFIRE Nevada-Yuba-Placer Unit",
+        "AdminUnitUrl": null,
+        "County": "Placer",
+        "Location": "Under the Foresthill bridge in Auburn",
+        "AcresBurned": 15,
+        "PercentContained": 0,
+        "ControlStatement": null,
+        "AgencyNames": "",
+        "Longitude": -121.038575,
+        "Latitude": 38.921839,
+        "Type": "Wildfire",
+        "UniqueId": "ff71cd3b-2261-4248-92fa-f24733cfdcfe",
+        "Url": "https://www.fire.ca.gov/incidents/2021/9/5/bridge-fire/",
         "ExtinguishedDate": "",
         "ExtinguishedDateOnly": "",
         "StartedDateOnly": "2021-09-05",
