@@ -5053,7 +5053,7 @@
       "properties": {
         "Name": "Caldor Fire",
         "Final": false,
-        "Updated": "2021-09-05T07:50:41Z",
+        "Updated": "2021-09-05T14:55:12Z",
         "Started": "2021-08-14T18:54:00Z",
         "AdminUnit": "Unified Command: CAL FIRE Amador-El Dorado Unit and El Dorado National Forest",
         "AdminUnitUrl": null,
@@ -5683,16 +5683,16 @@
       "properties": {
         "Name": "Lawrence Fire",
         "Final": false,
-        "Updated": "2021-09-05T14:11:30Z",
+        "Updated": "2021-09-05T15:20:03Z",
         "Started": "2021-09-05T10:40:20Z",
         "AdminUnit": "CAL FIRE Amador-El Dorado Unit",
         "AdminUnitUrl": null,
         "County": "Amador",
-        "Location": "Lawrence Rd and Tyler Rd., northeast of Fiddletown",
+        "Location": "Lawrence Road between Tyler Road and Cedar Creek Road, North of Fiddletown ",
         "AcresBurned": 40,
         "PercentContained": 15,
         "ControlStatement": null,
-        "AgencyNames": "",
+        "AgencyNames": "Cooperating Agencies: California Conservation Corps, Amador Fire Protection District, City of Ione Fire Department, Pioneer Fire Protection District, Diamond Springs-El Dorado Fire Protection District., Cameron Park Fire Department, El Dorado Hills Fire Department, El Dorado County Sheriff’s Office, Amador County Sheriff’s Office, Pacific Gas & Electric and California Highway Patrol ",
         "Longitude": -120.731748,
         "Latitude": 38.529123,
         "Type": "Wildfire",
@@ -5711,14 +5711,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -121.038575,
-          38.921839
+          -121.036613,
+          38.921239
         ]
       },
       "properties": {
         "Name": "Bridge Fire",
         "Final": false,
-        "Updated": "2021-09-05T14:08:34Z",
+        "Updated": "2021-09-05T15:07:06Z",
         "Started": "2021-09-05T12:53:14Z",
         "AdminUnit": "CALFIRE Nevada-Yuba-Placer Unit",
         "AdminUnitUrl": null,
@@ -5728,8 +5728,8 @@
         "PercentContained": 0,
         "ControlStatement": null,
         "AgencyNames": "",
-        "Longitude": -121.038575,
-        "Latitude": 38.921839,
+        "Longitude": -121.036613,
+        "Latitude": 38.921239,
         "Type": "Wildfire",
         "UniqueId": "ff71cd3b-2261-4248-92fa-f24733cfdcfe",
         "Url": "https://www.fire.ca.gov/incidents/2021/9/5/bridge-fire/",
