@@ -573,14 +573,14 @@
       "properties": {
         "Name": "Bridge Fire",
         "Final": false,
-        "Updated": "2021-09-06T09:36:41Z",
+        "Updated": "2021-09-06T16:20:36Z",
         "Started": "2021-09-05T12:53:14Z",
         "AdminUnit": "Unified Command: CALFIRE Nevada-Placer Unit, Placer County Sheriff, California State Parks",
         "AdminUnitUrl": null,
         "County": "Placer",
         "Location": "Under the Foresthill bridge in Auburn",
-        "AcresBurned": 300,
-        "PercentContained": 5,
+        "AcresBurned": 411,
+        "PercentContained": 15,
         "ControlStatement": null,
         "AgencyNames": "",
         "Longitude": -121.036613,
@@ -643,13 +643,13 @@
       "properties": {
         "Name": "Caballo Fire",
         "Final": false,
-        "Updated": "2021-09-06T16:10:19Z",
+        "Updated": "2021-09-06T16:27:46Z",
         "Started": "2021-09-06T14:54:06Z",
         "AdminUnit": "Lead Agency: Santa Barbara County Fire",
         "AdminUnitUrl": null,
         "County": "Santa Barbara",
         "Location": "Caballo Ln and Avenida Caballo, northeast of Los Olivos ",
-        "AcresBurned": 25,
+        "AcresBurned": 50,
         "PercentContained": 0,
         "ControlStatement": null,
         "AgencyNames": "",
@@ -662,7 +662,7 @@
         "ExtinguishedDateOnly": "",
         "StartedDateOnly": "2021-09-06",
         "IsActive": true,
-        "CalFireIncident": true,
+        "CalFireIncident": false,
         "NotificationDesired": false
       }
     }
