@@ -3478,7 +3478,7 @@
       "properties": {
         "Name": "Beckwourth Complex",
         "Final": false,
-        "Updated": "2021-08-25T16:45:36Z",
+        "Updated": "2021-09-07T15:14:32Z",
         "Started": "2021-07-04T09:26:06Z",
         "AdminUnit": "Plumas National Forest",
         "AdminUnitUrl": null,
@@ -4108,7 +4108,7 @@
       "properties": {
         "Name": "Tamarack Fire",
         "Final": false,
-        "Updated": "2021-08-25T16:45:57Z",
+        "Updated": "2021-09-07T15:14:02Z",
         "Started": "2021-07-04T11:57:58Z",
         "AdminUnit": "Humboldt-Toiyabe National Forest",
         "AdminUnitUrl": null,
@@ -4458,7 +4458,7 @@
       "properties": {
         "Name": "McFarland Fire",
         "Final": false,
-        "Updated": "2021-08-28T20:30:43Z",
+        "Updated": "2021-09-07T15:13:09Z",
         "Started": "2021-07-30T18:44:00Z",
         "AdminUnit": "Shasta-Trinity National Forest",
         "AdminUnitUrl": null,
@@ -4598,7 +4598,7 @@
       "properties": {
         "Name": "Antelope Fire",
         "Final": false,
-        "Updated": "2021-08-04T11:02:37Z",
+        "Updated": "2021-09-07T15:10:43Z",
         "Started": "2021-08-01T11:28:25Z",
         "AdminUnit": "Klamath National Forest",
         "AdminUnitUrl": null,
@@ -4703,7 +4703,7 @@
       "properties": {
         "Name": "River Complex",
         "Final": false,
-        "Updated": "2021-08-26T08:24:49Z",
+        "Updated": "2021-09-07T15:13:30Z",
         "Started": "2021-07-30T18:17:40Z",
         "AdminUnit": "Klamath National Forest",
         "AdminUnitUrl": null,
@@ -5088,7 +5088,7 @@
       "properties": {
         "Name": "Walkers Fire",
         "Final": false,
-        "Updated": "2021-08-17T10:49:42Z",
+        "Updated": "2021-09-07T15:10:00Z",
         "Started": "2021-08-16T16:05:54Z",
         "AdminUnit": "Sequoia National Forest",
         "AdminUnitUrl": null,
@@ -5123,7 +5123,7 @@
       "properties": {
         "Name": "Cache Fire",
         "Final": false,
-        "Updated": "2021-08-27T17:22:41Z",
+        "Updated": "2021-09-07T15:09:08Z",
         "Started": "2021-08-18T12:34:00Z",
         "AdminUnit": "Lake County Fire Protection District",
         "AdminUnitUrl": null,
@@ -5158,7 +5158,7 @@
       "properties": {
         "Name": "McCash Fire",
         "Final": false,
-        "Updated": "2021-08-18T14:26:21Z",
+        "Updated": "2021-09-07T15:09:33Z",
         "Started": "2021-08-18T08:50:00Z",
         "AdminUnit": "Six Rivers National Forest",
         "AdminUnitUrl": null,
@@ -5193,7 +5193,7 @@
       "properties": {
         "Name": "French Fire",
         "Final": false,
-        "Updated": "2021-09-07T07:37:11Z",
+        "Updated": "2021-09-07T15:08:55Z",
         "Started": "2021-08-18T18:20:00Z",
         "AdminUnit": "Kern County Fire",
         "AdminUnitUrl": null,
@@ -5508,7 +5508,7 @@
       "properties": {
         "Name": "Chaparral Fire",
         "Final": false,
-        "Updated": "2021-09-01T19:42:42Z",
+        "Updated": "2021-09-07T15:06:20Z",
         "Started": "2021-08-28T12:40:00Z",
         "AdminUnit": "Cleveland National Forest",
         "AdminUnitUrl": null,
@@ -5543,7 +5543,7 @@
       "properties": {
         "Name": "Railroad Fire",
         "Final": false,
-        "Updated": "2021-09-02T19:54:14Z",
+        "Updated": "2021-09-07T15:05:43Z",
         "Started": "2021-08-29T12:50:00Z",
         "AdminUnit": "San Bernardino National Forest",
         "AdminUnitUrl": null,
@@ -5613,7 +5613,7 @@
       "properties": {
         "Name": "K-Rail",
         "Final": true,
-        "Updated": "2021-08-30T13:50:24Z",
+        "Updated": "2021-09-07T15:05:02Z",
         "Started": "2021-08-30T13:30:00Z",
         "AdminUnit": "Six Rivers National Forest & Hoopa BIA",
         "AdminUnitUrl": null,
