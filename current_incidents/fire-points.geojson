@@ -188,14 +188,14 @@
       "properties": {
         "Name": "Monument Fire",
         "Final": false,
-        "Updated": "2021-09-07T16:18:53Z",
+        "Updated": "2021-09-07T16:20:08Z",
         "Started": "2021-07-30T12:28:00Z",
         "AdminUnit": "Shasta Trinity National Forest",
         "AdminUnitUrl": null,
         "County": "Trinity",
         "Location": "Del Loma, CA near Monument Peak",
-        "AcresBurned": 184142,
-        "PercentContained": 41,
+        "AcresBurned": null,
+        "PercentContained": null,
         "ControlStatement": null,
         "AgencyNames": "Shasta Trinity National Forest, Cooperating Agencies: California Highway Patrol, CalTrans, Trinity County Sheriff’s, Trinity County OES, Trinity County Public Utilities District, California Department of Corrections and Rehabilitation, California Conservation Corps, California National Guard, California Governor’s Office of Emergency Services, Hayfork Fire, Weaverville Fire, Junction City Fire, State of Washington, State of Arizona, State of Oklahoma, State of Alaska, State of Wisconsin, State of New Hampshire, State of Kentucky, State of Montana",
         "Longitude": -123.337,
@@ -207,7 +207,7 @@
         "ExtinguishedDateOnly": "",
         "StartedDateOnly": "2021-07-30",
         "IsActive": true,
-        "CalFireIncident": true,
+        "CalFireIncident": false,
         "NotificationDesired": false
       }
     },
@@ -483,6 +483,41 @@
         "Type": "Fire",
         "UniqueId": "cd7d799d-cc81-4ffb-9d55-4e2b18b92d34",
         "Url": "https://www.fire.ca.gov/incidents/2021/8/29/railroad-fire/",
+        "ExtinguishedDate": "",
+        "ExtinguishedDateOnly": "",
+        "StartedDateOnly": "2021-08-29",
+        "IsActive": true,
+        "CalFireIncident": false,
+        "NotificationDesired": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.6744,
+          40.8652
+        ]
+      },
+      "properties": {
+        "Name": "Knob Fire",
+        "Final": false,
+        "Updated": "2021-09-07T16:24:19Z",
+        "Started": "2021-08-29T08:00:00Z",
+        "AdminUnit": "Six Rivers National Forest",
+        "AdminUnitUrl": null,
+        "County": "Humboldt",
+        "Location": "Friday Spur Rd & China Creek, south of Willow Creek",
+        "AcresBurned": null,
+        "PercentContained": null,
+        "ControlStatement": null,
+        "AgencyNames": "Six Rivers National Forest ",
+        "Longitude": -123.6744,
+        "Latitude": 40.8652,
+        "Type": "Wildfire",
+        "UniqueId": "d7b908db-7184-4f9e-923f-f811688cf4eb",
+        "Url": "https://www.fire.ca.gov/incidents/2021/8/29/knob-fire/",
         "ExtinguishedDate": "",
         "ExtinguishedDateOnly": "",
         "StartedDateOnly": "2021-08-29",
