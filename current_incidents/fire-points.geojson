@@ -531,41 +531,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -120.731748,
-          38.529123
-        ]
-      },
-      "properties": {
-        "Name": "Lawrence Fire",
-        "Final": false,
-        "Updated": "2021-09-06T18:34:36Z",
-        "Started": "2021-09-05T10:40:20Z",
-        "AdminUnit": "CAL FIRE Amador-El Dorado Unit",
-        "AdminUnitUrl": null,
-        "County": "Amador",
-        "Location": "Lawrence Road between Tyler Road and Cedar Creek Road, North of Fiddletown ",
-        "AcresBurned": 46,
-        "PercentContained": 90,
-        "ControlStatement": null,
-        "AgencyNames": "Cooperating Agencies: California Conservation Corps, Amador Fire Protection District, City of Ione Fire Department, Pioneer Fire Protection District, Diamond Springs-El Dorado Fire Protection District., Cameron Park Fire Department, El Dorado Hills Fire Department, El Dorado County Sheriff’s Office, Amador County Sheriff’s Office, Pacific Gas & Electric and California Highway Patrol ",
-        "Longitude": -120.731748,
-        "Latitude": 38.529123,
-        "Type": "Wildfire",
-        "UniqueId": "5ddee2f6-f32b-4664-a416-5cf4996290a5",
-        "Url": "https://www.fire.ca.gov/incidents/2021/9/5/lawrence-fire/",
-        "ExtinguishedDate": "",
-        "ExtinguishedDateOnly": "",
-        "StartedDateOnly": "2021-09-05",
-        "IsActive": true,
-        "CalFireIncident": true,
-        "NotificationDesired": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -121.036613,
           38.921239
         ]
