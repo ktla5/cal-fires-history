@@ -496,41 +496,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -123.52733,
-          41.03877
-        ]
-      },
-      "properties": {
-        "Name": "K-Rail",
-        "Final": true,
-        "Updated": "2021-09-07T15:05:02Z",
-        "Started": "2021-08-30T13:30:00Z",
-        "AdminUnit": "Six Rivers National Forest & Hoopa BIA",
-        "AdminUnitUrl": null,
-        "County": "Humboldt",
-        "Location": "Tish Tang Ridge, southeast of Hoopa",
-        "AcresBurned": null,
-        "PercentContained": null,
-        "ControlStatement": null,
-        "AgencyNames": "",
-        "Longitude": -123.52733,
-        "Latitude": 41.03877,
-        "Type": "Wildfire",
-        "UniqueId": "af05ba27-9105-4776-83a8-8ea786117476",
-        "Url": "https://www.fire.ca.gov/incidents/2021/8/30/k-rail/",
-        "ExtinguishedDate": "",
-        "ExtinguishedDateOnly": "",
-        "StartedDateOnly": "2021-08-30",
-        "IsActive": true,
-        "CalFireIncident": false,
-        "NotificationDesired": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -121.036613,
           38.921239
         ]
@@ -591,41 +556,6 @@
         "ExtinguishedDate": "",
         "ExtinguishedDateOnly": "",
         "StartedDateOnly": "2021-09-05",
-        "IsActive": true,
-        "CalFireIncident": false,
-        "NotificationDesired": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.09009,
-          34.6776
-        ]
-      },
-      "properties": {
-        "Name": "Caballo Fire",
-        "Final": false,
-        "Updated": "2021-09-07T16:46:15Z",
-        "Started": "2021-09-06T14:54:06Z",
-        "AdminUnit": "Lead Agency: Santa Barbara County Fire",
-        "AdminUnitUrl": null,
-        "County": "Santa Barbara",
-        "Location": "Caballo Ln and Avenida Caballo, northeast of Los Olivos ",
-        "AcresBurned": 70,
-        "PercentContained": 70,
-        "ControlStatement": null,
-        "AgencyNames": "",
-        "Longitude": -120.09009,
-        "Latitude": 34.6776,
-        "Type": "Wildfire",
-        "UniqueId": "6a36efca-0cb1-465f-be4d-06b3e3b528c1",
-        "Url": "https://www.fire.ca.gov/incidents/2021/9/6/caballo-fire/",
-        "ExtinguishedDate": "",
-        "ExtinguishedDateOnly": "",
-        "StartedDateOnly": "2021-09-06",
         "IsActive": true,
         "CalFireIncident": false,
         "NotificationDesired": false
