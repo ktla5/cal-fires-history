@@ -5858,7 +5858,7 @@
       "properties": {
         "Name": "Hopkins Fire",
         "Final": false,
-        "Updated": "2021-09-12T15:49:47Z",
+        "Updated": "2021-09-12T15:57:47Z",
         "Started": "2021-09-12T15:48:09Z",
         "AdminUnit": "CAL FIRE Mendocino Unit ",
         "AdminUnitUrl": null,
@@ -5877,7 +5877,7 @@
         "ExtinguishedDateOnly": "",
         "StartedDateOnly": "2021-09-12",
         "IsActive": true,
-        "CalFireIncident": false,
+        "CalFireIncident": true,
         "NotificationDesired": false
       }
     }
