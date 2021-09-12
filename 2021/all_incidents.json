@@ -5845,6 +5845,41 @@
         "CalFireIncident": false,
         "NotificationDesired": false
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.202039,
+          39.232362
+        ]
+      },
+      "properties": {
+        "Name": "Hopkins Fire",
+        "Final": false,
+        "Updated": "2021-09-12T15:49:47Z",
+        "Started": "2021-09-12T15:48:09Z",
+        "AdminUnit": "CAL FIRE Mendocino Unit ",
+        "AdminUnitUrl": null,
+        "County": "Mendocino",
+        "Location": "Hopkins St and North State St. near Capella in Mendocino County. ",
+        "AcresBurned": 50,
+        "PercentContained": 0,
+        "ControlStatement": null,
+        "AgencyNames": "",
+        "Longitude": -123.202039,
+        "Latitude": 39.232362,
+        "Type": "Wildfire",
+        "UniqueId": "b7a4e6df-7cef-4920-a585-031324b404f4",
+        "Url": "https://www.fire.ca.gov/incidents/2021/9/12/hopkins-fire/",
+        "ExtinguishedDate": "",
+        "ExtinguishedDateOnly": "",
+        "StartedDateOnly": "2021-09-12",
+        "IsActive": true,
+        "CalFireIncident": false,
+        "NotificationDesired": false
+      }
     }
   ]
 }
