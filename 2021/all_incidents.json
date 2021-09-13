@@ -5880,6 +5880,41 @@
         "CalFireIncident": true,
         "NotificationDesired": false
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.794232,
+          36.025716
+        ]
+      },
+      "properties": {
+        "Name": "Windy Fire",
+        "Final": false,
+        "Updated": "2021-09-13T12:57:07Z",
+        "Started": "2021-09-09T12:00:00Z",
+        "AdminUnit": "Sequoia National Forest / Tule River Indian Reservation",
+        "AdminUnitUrl": null,
+        "County": "Tulare",
+        "Location": "South of Windy Creek, Red Hill Indian Reservation",
+        "AcresBurned": null,
+        "PercentContained": null,
+        "ControlStatement": null,
+        "AgencyNames": "Sequoia National Forest",
+        "Longitude": -118.794232,
+        "Latitude": 36.025716,
+        "Type": "Wildfire",
+        "UniqueId": "cb9d8266-3c5e-4c42-97a8-fdf0fa69a6b1",
+        "Url": "https://www.fire.ca.gov/incidents/2021/9/9/windy-fire/",
+        "ExtinguishedDate": "",
+        "ExtinguishedDateOnly": "",
+        "StartedDateOnly": "2021-09-09",
+        "IsActive": true,
+        "CalFireIncident": false,
+        "NotificationDesired": false
+      }
     }
   ]
 }
