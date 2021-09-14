@@ -525,6 +525,41 @@
         "CalFireIncident": false,
         "NotificationDesired": false
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.811,
+          36.567
+        ]
+      },
+      "properties": {
+        "Name": "KNP Complex",
+        "Final": false,
+        "Updated": "2021-09-14T10:00:14Z",
+        "Started": "2021-09-10T07:00:00Z",
+        "AdminUnit": "Sequoia & Kings Canyon National Parks",
+        "AdminUnitUrl": null,
+        "County": "Tulare",
+        "Location": "Sequoia National Park",
+        "AcresBurned": null,
+        "PercentContained": null,
+        "ControlStatement": null,
+        "AgencyNames": "Sequoia National Park",
+        "Longitude": -118.811,
+        "Latitude": 36.567,
+        "Type": "Wildfire",
+        "UniqueId": "48dcd1c3-e791-49d8-9435-1b358027b318",
+        "Url": "https://www.fire.ca.gov/incidents/2021/9/10/knp-complex/",
+        "ExtinguishedDate": "",
+        "ExtinguishedDateOnly": "",
+        "StartedDateOnly": "2021-09-10",
+        "IsActive": true,
+        "CalFireIncident": false,
+        "NotificationDesired": false
+      }
     }
   ]
 }
