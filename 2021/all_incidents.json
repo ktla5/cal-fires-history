@@ -3933,7 +3933,7 @@
       "properties": {
         "Name": "Dixie Fire",
         "Final": false,
-        "Updated": "2021-09-14T10:52:43Z",
+        "Updated": "2021-09-14T12:54:37Z",
         "Started": "2021-07-13T17:15:00Z",
         "AdminUnit": "Lassen National Forest and National Park Service",
         "AdminUnitUrl": null,
@@ -3952,7 +3952,7 @@
         "ExtinguishedDateOnly": "",
         "StartedDateOnly": "2021-07-13",
         "IsActive": true,
-        "CalFireIncident": true,
+        "CalFireIncident": false,
         "NotificationDesired": false
       }
     },
