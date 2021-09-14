@@ -258,14 +258,14 @@
       "properties": {
         "Name": "Caldor Fire",
         "Final": false,
-        "Updated": "2021-09-13T19:17:30Z",
+        "Updated": "2021-09-14T07:13:59Z",
         "Started": "2021-08-14T18:54:00Z",
         "AdminUnit": "Unified Command: CAL FIRE Amador-El Dorado Unit and El Dorado National Forest",
         "AdminUnitUrl": null,
         "County": "El Dorado, Alpine, Amador",
         "Location": "East of Omo Ranch, South of the community of Grizzly Flats",
         "AcresBurned": 219267,
-        "PercentContained": 67,
+        "PercentContained": 68,
         "ControlStatement": null,
         "AgencyNames": "El Dorado National Forest, El Dorado County Sheriff's Office, Pioneer Fire District , Cooperating Agencies: El Dorado County Sheriff’s Office, Sierra Pacific Industries, Pioneer FD, PG&E, CHP, El Dorado Irrigation District, El Dorado County, Grizzly Flats Community Service District, SMUD, Amador County Sheriff’s Office, AT&T, Georgetown FD, CALTRANS, Indian Diggins School District, El Dorado County FD, Grizzly Flats Water District, Volcano Telephone, Placerville FD, El Dorado County DOT, Mosquito FD, Garden Valley FD, Cal OES Fire, El Dorado County EMSA, El Dorado County Office of Education, Marshall Medical Center, Shingle Springs Band of Miwok Indians FD, State Water Resources Control Board, KAMPS, El Dorado County Department of Agriculture, Barton Health, CAL EPA, Lake Valley Fire District, and Verizon",
         "Longitude": -120.537833,
@@ -311,41 +311,6 @@
         "ExtinguishedDate": "",
         "ExtinguishedDateOnly": "",
         "StartedDateOnly": "2021-08-16",
-        "IsActive": true,
-        "CalFireIncident": false,
-        "NotificationDesired": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.601395,
-          38.928133
-        ]
-      },
-      "properties": {
-        "Name": "Cache Fire",
-        "Final": false,
-        "Updated": "2021-09-07T15:09:08Z",
-        "Started": "2021-08-18T12:34:00Z",
-        "AdminUnit": "Lake County Fire Protection District",
-        "AdminUnitUrl": null,
-        "County": "Lake",
-        "Location": "Dam Rd and Wilkinson Ave, Clearlake",
-        "AcresBurned": null,
-        "PercentContained": null,
-        "ControlStatement": null,
-        "AgencyNames": "Lake County Fire Protection District, Lake County Sheriff’s Office ",
-        "Longitude": -122.601395,
-        "Latitude": 38.928133,
-        "Type": "Wildfire",
-        "UniqueId": "8e3e3fe1-669f-4cf8-80ee-c8df14929a22",
-        "Url": "https://www.fire.ca.gov/incidents/2021/8/18/cache-fire/",
-        "ExtinguishedDate": "",
-        "ExtinguishedDateOnly": "",
-        "StartedDateOnly": "2021-08-18",
         "IsActive": true,
         "CalFireIncident": false,
         "NotificationDesired": false
@@ -426,76 +391,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.39309,
-          33.484721
-        ]
-      },
-      "properties": {
-        "Name": "Chaparral Fire",
-        "Final": false,
-        "Updated": "2021-09-07T15:06:20Z",
-        "Started": "2021-08-28T12:40:00Z",
-        "AdminUnit": "Cleveland National Forest",
-        "AdminUnitUrl": null,
-        "County": "Riverside, San Diego",
-        "Location": "Cleveland Forest Road and Tenaja Road southwest of Murrieta in San Diego County.",
-        "AcresBurned": null,
-        "PercentContained": null,
-        "ControlStatement": null,
-        "AgencyNames": "",
-        "Longitude": -117.39309,
-        "Latitude": 33.484721,
-        "Type": "Wildfire",
-        "UniqueId": "64a7c61a-5634-410a-a1c4-aeb97b2283e0",
-        "Url": "https://www.fire.ca.gov/incidents/2021/8/28/chaparral-fire/",
-        "ExtinguishedDate": "",
-        "ExtinguishedDateOnly": "",
-        "StartedDateOnly": "2021-08-28",
-        "IsActive": true,
-        "CalFireIncident": false,
-        "NotificationDesired": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -123.6744,
-          40.8652
-        ]
-      },
-      "properties": {
-        "Name": "Knob Fire",
-        "Final": false,
-        "Updated": "2021-09-07T16:24:19Z",
-        "Started": "2021-08-29T08:00:00Z",
-        "AdminUnit": "Six Rivers National Forest",
-        "AdminUnitUrl": null,
-        "County": "Humboldt",
-        "Location": "Friday Spur Rd & China Creek, south of Willow Creek",
-        "AcresBurned": null,
-        "PercentContained": null,
-        "ControlStatement": null,
-        "AgencyNames": "Six Rivers National Forest ",
-        "Longitude": -123.6744,
-        "Latitude": 40.8652,
-        "Type": "Wildfire",
-        "UniqueId": "d7b908db-7184-4f9e-923f-f811688cf4eb",
-        "Url": "https://www.fire.ca.gov/incidents/2021/8/29/knob-fire/",
-        "ExtinguishedDate": "",
-        "ExtinguishedDateOnly": "",
-        "StartedDateOnly": "2021-08-29",
-        "IsActive": true,
-        "CalFireIncident": false,
-        "NotificationDesired": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -121.036613,
           38.921239
         ]
@@ -538,7 +433,7 @@
       "properties": {
         "Name": "Route Fire",
         "Final": false,
-        "Updated": "2021-09-12T20:57:12Z",
+        "Updated": "2021-09-14T07:06:07Z",
         "Started": "2021-09-11T16:06:47Z",
         "AdminUnit": "USFS - Angeles National Forest",
         "AdminUnitUrl": null,
