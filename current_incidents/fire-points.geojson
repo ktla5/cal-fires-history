@@ -560,6 +560,41 @@
         "CalFireIncident": false,
         "NotificationDesired": false
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.792528,
+          36.89365
+        ]
+      },
+      "properties": {
+        "Name": "Childrens Fire",
+        "Final": false,
+        "Updated": "2021-09-19T13:39:52Z",
+        "Started": "2021-09-19T11:40:00Z",
+        "AdminUnit": "CAL FIRE Madera-Mariposa-Merced Unit",
+        "AdminUnitUrl": null,
+        "County": "Madera",
+        "Location": "Childrens Blvd and Rio Mesa Blvd ",
+        "AcresBurned": 25,
+        "PercentContained": 0,
+        "ControlStatement": null,
+        "AgencyNames": "",
+        "Longitude": -119.792528,
+        "Latitude": 36.89365,
+        "Type": "Wildfire",
+        "UniqueId": "f4be7c50-4b42-4534-90c7-82c52e4fa3cb",
+        "Url": "https://www.fire.ca.gov/incidents/2021/9/19/childrens-fire/",
+        "ExtinguishedDate": "",
+        "ExtinguishedDateOnly": "",
+        "StartedDateOnly": "2021-09-19",
+        "IsActive": true,
+        "CalFireIncident": true,
+        "NotificationDesired": false
+      }
     }
   ]
 }
