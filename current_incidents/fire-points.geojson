@@ -48,14 +48,14 @@
       "properties": {
         "Name": "Dixie Fire",
         "Final": false,
-        "Updated": "2021-09-19T07:06:53Z",
+        "Updated": "2021-09-19T19:02:52Z",
         "Started": "2021-07-13T17:15:00Z",
         "AdminUnit": "CAL FIRE, Lassen National Forest and National Park Service",
         "AdminUnitUrl": null,
         "County": "Butte, Plumas, Tehama, Shasta, Lassen",
         "Location": "Above the Cresta Dam, Feather River Canyon",
-        "AcresBurned": 963301,
-        "PercentContained": 88,
+        "AcresBurned": 963195,
+        "PercentContained": 90,
         "ControlStatement": null,
         "AgencyNames": "Butte County Sheriff Office , Butte County Sheriff's Office, Plumas County Sheriff's Office, Lassen County Sheriff's Office, Tehama County Sheriff's Office, Shasta County Sheriff's Office, CHP, PG&E, CAL OES, CAL-EMSA, California National Guard, California Conservation Corps, CAL TRANS, Sierra Pacific Industries, W.M. Beaty and Associates, Collins Pine, California Department of Corrections, Burlington Northern Santa Fe Railroad, Union Pacific Railroad",
         "Longitude": -121.389439,
@@ -433,14 +433,14 @@
       "properties": {
         "Name": "Hopkins Fire",
         "Final": false,
-        "Updated": "2021-09-19T07:17:10Z",
+        "Updated": "2021-09-19T19:07:05Z",
         "Started": "2021-09-12T14:15:09Z",
         "AdminUnit": "CAL FIRE Mendocino Unit ",
         "AdminUnitUrl": null,
         "County": "Mendocino",
         "Location": "Hopkins St and North State St. near Calpella in Mendocino County. ",
         "AcresBurned": 257,
-        "PercentContained": 97,
+        "PercentContained": 98,
         "ControlStatement": null,
         "AgencyNames": "Cooperating Agencies:  Mendocino County Sheriff’s Office, California Highway Patrol, Caltrans, California Conservation Corp, Hopland Fire Department, Ukiah Valley Fire Authority, Redwood Valley-Calpella Fire Department, Redwood Coast Fire Department, Brooktrails Fire Department, Potter Valley Fire Department, Little Lake Valley Fire Department, MedStar Ambulance, California Department of Corrections and Rehabilitation, California National Guard, Brooktrails Fire Department, Laytonville Fire Department  ",
         "Longitude": -123.202039,
@@ -558,41 +558,6 @@
         "StartedDateOnly": "2021-09-17",
         "IsActive": true,
         "CalFireIncident": false,
-        "NotificationDesired": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -119.792528,
-          36.89365
-        ]
-      },
-      "properties": {
-        "Name": "Childrens Fire",
-        "Final": false,
-        "Updated": "2021-09-19T15:47:51Z",
-        "Started": "2021-09-19T11:40:00Z",
-        "AdminUnit": "CAL FIRE Madera-Mariposa-Merced Unit",
-        "AdminUnitUrl": null,
-        "County": "Madera",
-        "Location": "Childrens Blvd and Rio Mesa Blvd ",
-        "AcresBurned": 42,
-        "PercentContained": 50,
-        "ControlStatement": null,
-        "AgencyNames": "",
-        "Longitude": -119.792528,
-        "Latitude": 36.89365,
-        "Type": "Wildfire",
-        "UniqueId": "f4be7c50-4b42-4534-90c7-82c52e4fa3cb",
-        "Url": "https://www.fire.ca.gov/incidents/2021/9/19/childrens-fire/",
-        "ExtinguishedDate": "",
-        "ExtinguishedDateOnly": "",
-        "StartedDateOnly": "2021-09-19",
-        "IsActive": true,
-        "CalFireIncident": true,
         "NotificationDesired": false
       }
     }
