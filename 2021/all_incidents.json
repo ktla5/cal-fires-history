@@ -4457,8 +4457,8 @@
       },
       "properties": {
         "Name": "McFarland Fire",
-        "Final": false,
-        "Updated": "2021-09-07T15:13:09Z",
+        "Final": true,
+        "Updated": "2021-09-19T21:05:14Z",
         "Started": "2021-07-30T18:44:00Z",
         "AdminUnit": "Shasta-Trinity National Forest",
         "AdminUnitUrl": null,
@@ -4473,10 +4473,10 @@
         "Type": "Fire",
         "UniqueId": "d0174b70-8652-4242-bf7f-b00e98a48319",
         "Url": "https://www.fire.ca.gov/incidents/2021/7/30/mcfarland-fire/",
-        "ExtinguishedDate": "",
-        "ExtinguishedDateOnly": "",
+        "ExtinguishedDate": "2021-09-19T21:05:11Z",
+        "ExtinguishedDateOnly": "2021-09-19",
         "StartedDateOnly": "2021-07-30",
-        "IsActive": true,
+        "IsActive": false,
         "CalFireIncident": false,
         "NotificationDesired": false
       }
@@ -5087,8 +5087,8 @@
       },
       "properties": {
         "Name": "Walkers Fire",
-        "Final": false,
-        "Updated": "2021-09-07T15:10:00Z",
+        "Final": true,
+        "Updated": "2021-09-19T21:12:03Z",
         "Started": "2021-08-16T16:05:54Z",
         "AdminUnit": "Sequoia National Forest",
         "AdminUnitUrl": null,
@@ -5103,10 +5103,10 @@
         "Type": "Wildfire",
         "UniqueId": "2eae3252-74cd-4e96-b25a-20ed828395e2",
         "Url": "https://www.fire.ca.gov/incidents/2021/8/16/walkers-fire/",
-        "ExtinguishedDate": "",
-        "ExtinguishedDateOnly": "",
+        "ExtinguishedDate": "2021-09-18T21:11:50Z",
+        "ExtinguishedDateOnly": "2021-09-18",
         "StartedDateOnly": "2021-08-16",
-        "IsActive": true,
+        "IsActive": false,
         "CalFireIncident": false,
         "NotificationDesired": false
       }
@@ -5822,8 +5822,8 @@
       },
       "properties": {
         "Name": "Route Fire",
-        "Final": false,
-        "Updated": "2021-09-14T07:06:07Z",
+        "Final": true,
+        "Updated": "2021-09-19T21:12:43Z",
         "Started": "2021-09-11T16:06:47Z",
         "AdminUnit": "USFS - Angeles National Forest",
         "AdminUnitUrl": null,
@@ -5838,10 +5838,10 @@
         "Type": "Wildfire",
         "UniqueId": "d3668f70-4e85-4962-8e8a-a0b8f1465500",
         "Url": "https://www.fire.ca.gov/incidents/2021/9/11/route-fire/",
-        "ExtinguishedDate": "",
-        "ExtinguishedDateOnly": "",
+        "ExtinguishedDate": "2021-09-18T21:12:36Z",
+        "ExtinguishedDateOnly": "2021-09-18",
         "StartedDateOnly": "2021-09-11",
-        "IsActive": true,
+        "IsActive": false,
         "CalFireIncident": false,
         "NotificationDesired": false
       }
