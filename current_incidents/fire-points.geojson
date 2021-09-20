@@ -111,41 +111,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -123.0374,
-          40.31848
-        ]
-      },
-      "properties": {
-        "Name": "McFarland Fire",
-        "Final": false,
-        "Updated": "2021-09-07T15:13:09Z",
-        "Started": "2021-07-30T18:44:00Z",
-        "AdminUnit": "Shasta-Trinity National Forest",
-        "AdminUnitUrl": null,
-        "County": "Shasta, Trinity, Tehama",
-        "Location": "McFarland Ridge and Baker Flat, west of Platina",
-        "AcresBurned": null,
-        "PercentContained": null,
-        "ControlStatement": null,
-        "AgencyNames": "Shasta-Trinity National Forest",
-        "Longitude": -123.0374,
-        "Latitude": 40.31848,
-        "Type": "Fire",
-        "UniqueId": "d0174b70-8652-4242-bf7f-b00e98a48319",
-        "Url": "https://www.fire.ca.gov/incidents/2021/7/30/mcfarland-fire/",
-        "ExtinguishedDate": "",
-        "ExtinguishedDateOnly": "",
-        "StartedDateOnly": "2021-07-30",
-        "IsActive": true,
-        "CalFireIncident": false,
-        "NotificationDesired": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -121.9154934,
           41.5289901
         ]
@@ -286,41 +251,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -118.555,
-          36.268
-        ]
-      },
-      "properties": {
-        "Name": "Walkers Fire",
-        "Final": false,
-        "Updated": "2021-09-07T15:10:00Z",
-        "Started": "2021-08-16T16:05:54Z",
-        "AdminUnit": "Sequoia National Forest",
-        "AdminUnitUrl": null,
-        "County": "Tulare",
-        "Location": "North of Alpine Creek, northeast of Springville",
-        "AcresBurned": null,
-        "PercentContained": null,
-        "ControlStatement": null,
-        "AgencyNames": "Sequoia National Forest ",
-        "Longitude": -118.555,
-        "Latitude": 36.268,
-        "Type": "Wildfire",
-        "UniqueId": "2eae3252-74cd-4e96-b25a-20ed828395e2",
-        "Url": "https://www.fire.ca.gov/incidents/2021/8/16/walkers-fire/",
-        "ExtinguishedDate": "",
-        "ExtinguishedDateOnly": "",
-        "StartedDateOnly": "2021-08-16",
-        "IsActive": true,
-        "CalFireIncident": false,
-        "NotificationDesired": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -123.404,
           41.564
         ]
@@ -381,41 +311,6 @@
         "ExtinguishedDate": "",
         "ExtinguishedDateOnly": "",
         "StartedDateOnly": "2021-08-18",
-        "IsActive": true,
-        "CalFireIncident": false,
-        "NotificationDesired": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.688821,
-          34.569383
-        ]
-      },
-      "properties": {
-        "Name": "Route Fire",
-        "Final": false,
-        "Updated": "2021-09-14T07:06:07Z",
-        "Started": "2021-09-11T16:06:47Z",
-        "AdminUnit": "USFS - Angeles National Forest",
-        "AdminUnitUrl": null,
-        "County": "Los Angeles",
-        "Location": "Golden State Hwy and Templin Hwy, north of Templin Hwy ",
-        "AcresBurned": null,
-        "PercentContained": null,
-        "ControlStatement": null,
-        "AgencyNames": "",
-        "Longitude": -118.688821,
-        "Latitude": 34.569383,
-        "Type": "Wildfire",
-        "UniqueId": "d3668f70-4e85-4962-8e8a-a0b8f1465500",
-        "Url": "https://www.fire.ca.gov/incidents/2021/9/11/route-fire/",
-        "ExtinguishedDate": "",
-        "ExtinguishedDateOnly": "",
-        "StartedDateOnly": "2021-09-11",
         "IsActive": true,
         "CalFireIncident": false,
         "NotificationDesired": false
