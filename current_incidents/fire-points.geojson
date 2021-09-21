@@ -321,41 +321,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -123.202039,
-          39.232362
-        ]
-      },
-      "properties": {
-        "Name": "Hopkins Fire",
-        "Final": false,
-        "Updated": "2021-09-20T10:35:51Z",
-        "Started": "2021-09-12T14:15:09Z",
-        "AdminUnit": "CAL FIRE Mendocino Unit ",
-        "AdminUnitUrl": null,
-        "County": "Mendocino",
-        "Location": "Hopkins St and North State St. near Calpella in Mendocino County. ",
-        "AcresBurned": 257,
-        "PercentContained": 98,
-        "ControlStatement": null,
-        "AgencyNames": "Cooperating Agencies:  Mendocino County Sheriff’s Office, California Highway Patrol, Caltrans, California Conservation Corp, Hopland Fire Department, Ukiah Valley Fire Authority, Redwood Valley-Calpella Fire Department, Redwood Coast Fire Department, Brooktrails Fire Department, Potter Valley Fire Department, Little Lake Valley Fire Department, MedStar Ambulance, California Department of Corrections and Rehabilitation, California National Guard, Brooktrails Fire Department, Laytonville Fire Department  ",
-        "Longitude": -123.202039,
-        "Latitude": 39.232362,
-        "Type": "Wildfire",
-        "UniqueId": "b7a4e6df-7cef-4920-a585-031324b404f4",
-        "Url": "https://www.fire.ca.gov/incidents/2021/9/12/hopkins-fire/",
-        "ExtinguishedDate": "",
-        "ExtinguishedDateOnly": "",
-        "StartedDateOnly": "2021-09-12",
-        "IsActive": true,
-        "CalFireIncident": true,
-        "NotificationDesired": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -118.625,
           36.058
         ]
