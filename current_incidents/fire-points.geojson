@@ -420,6 +420,41 @@
         "CalFireIncident": false,
         "NotificationDesired": false
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.333215,
+          34.164501
+        ]
+      },
+      "properties": {
+        "Name": "University Fire",
+        "Final": false,
+        "Updated": "2021-09-22T14:16:02Z",
+        "Started": "2021-09-22T11:27:08Z",
+        "AdminUnit": "San Bernardino City Fire",
+        "AdminUnitUrl": null,
+        "County": "San Bernardino",
+        "Location": "I-215 and University Pkwy, San Bernardino",
+        "AcresBurned": null,
+        "PercentContained": null,
+        "ControlStatement": null,
+        "AgencyNames": "San Bernardino City Fire",
+        "Longitude": -117.333215,
+        "Latitude": 34.164501,
+        "Type": "Wildfire",
+        "UniqueId": "e208c4a4-1477-4bfd-9fcd-c2d10271e617",
+        "Url": "https://www.fire.ca.gov/incidents/2021/9/22/university-fire/",
+        "ExtinguishedDate": "",
+        "ExtinguishedDateOnly": "",
+        "StartedDateOnly": "2021-09-22",
+        "IsActive": true,
+        "CalFireIncident": false,
+        "NotificationDesired": false
+      }
     }
   ]
 }
