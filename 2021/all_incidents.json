@@ -6068,13 +6068,13 @@
       "properties": {
         "Name": "Fremont Fire",
         "Final": false,
-        "Updated": "2021-09-22T15:14:30Z",
+        "Updated": "2021-09-22T15:29:55Z",
         "Started": "2021-09-22T14:25:00Z",
         "AdminUnit": "CAL FIRE Sonoma-Lake-Napa Unit",
         "AdminUnitUrl": null,
         "County": "Napa, Sonoma",
         "Location": "Fremont Drive and Napa Road, Sonoma",
-        "AcresBurned": 25,
+        "AcresBurned": 40,
         "PercentContained": 0,
         "ControlStatement": null,
         "AgencyNames": "CAL FIRE Sonoma-Lake-Napa Unit ",
@@ -6087,7 +6087,7 @@
         "ExtinguishedDateOnly": "",
         "StartedDateOnly": "2021-09-22",
         "IsActive": true,
-        "CalFireIncident": true,
+        "CalFireIncident": false,
         "NotificationDesired": false
       }
     }
