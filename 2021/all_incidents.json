@@ -6090,6 +6090,41 @@
         "CalFireIncident": false,
         "NotificationDesired": false
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.320243,
+          40.729811
+        ]
+      },
+      "properties": {
+        "Name": "Fawn Fire",
+        "Final": true,
+        "Updated": "2021-09-22T18:11:55Z",
+        "Started": "2021-09-22T16:44:00Z",
+        "AdminUnit": "CAL FIRE Shasta-Trinity Unit",
+        "AdminUnitUrl": null,
+        "County": "Shasta",
+        "Location": "Fawndale Rd and Radcliff Rd, 5 miles northeast of Shasta Lake",
+        "AcresBurned": 20,
+        "PercentContained": 0,
+        "ControlStatement": null,
+        "AgencyNames": "CAL FIRE Shasta-Trinity Unit",
+        "Longitude": -122.320243,
+        "Latitude": 40.729811,
+        "Type": "Wildfire",
+        "UniqueId": "1052ac46-526c-4ca1-a75c-7e91920ee6cb",
+        "Url": "https://www.fire.ca.gov/incidents/2021/9/22/fawn-fire/",
+        "ExtinguishedDate": "",
+        "ExtinguishedDateOnly": "",
+        "StartedDateOnly": "2021-09-22",
+        "IsActive": true,
+        "CalFireIncident": true,
+        "NotificationDesired": false
+      }
     }
   ]
 }
