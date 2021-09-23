@@ -461,41 +461,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.416983,
-          38.269863
-        ]
-      },
-      "properties": {
-        "Name": "Fremont Fire",
-        "Final": false,
-        "Updated": "2021-09-22T18:51:46Z",
-        "Started": "2021-09-22T14:25:00Z",
-        "AdminUnit": "CAL FIRE Sonoma-Lake-Napa Unit",
-        "AdminUnitUrl": null,
-        "County": "Napa, Sonoma",
-        "Location": "Fremont Drive and Napa Road, Sonoma",
-        "AcresBurned": 116,
-        "PercentContained": 80,
-        "ControlStatement": null,
-        "AgencyNames": "CAL FIRE Sonoma-Lake-Napa Unit ",
-        "Longitude": -122.416983,
-        "Latitude": 38.269863,
-        "Type": "Wildfire",
-        "UniqueId": "460ab87e-07e7-4931-8390-bd3fe60677b2",
-        "Url": "https://www.fire.ca.gov/incidents/2021/9/22/fremont-fire/",
-        "ExtinguishedDate": "",
-        "ExtinguishedDateOnly": "",
-        "StartedDateOnly": "2021-09-22",
-        "IsActive": true,
-        "CalFireIncident": false,
-        "NotificationDesired": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -122.320243,
           40.729811
         ]
@@ -503,14 +468,14 @@
       "properties": {
         "Name": "Fawn Fire",
         "Final": true,
-        "Updated": "2021-09-22T18:50:56Z",
+        "Updated": "2021-09-23T07:07:29Z",
         "Started": "2021-09-22T16:44:00Z",
         "AdminUnit": "CAL FIRE Shasta-Trinity Unit",
         "AdminUnitUrl": null,
         "County": "Shasta",
         "Location": "Fawndale Rd and Radcliff Rd, 5 miles northeast of Shasta Lake",
-        "AcresBurned": 50,
-        "PercentContained": 0,
+        "AcresBurned": 150,
+        "PercentContained": 5,
         "ControlStatement": null,
         "AgencyNames": "CAL FIRE Shasta-Trinity Unit",
         "Longitude": -122.320243,
