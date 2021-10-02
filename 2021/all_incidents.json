@@ -3933,11 +3933,11 @@
       "properties": {
         "Name": "Dixie Fire",
         "Final": false,
-        "Updated": "2021-10-01T19:11:41Z",
+        "Updated": "2021-10-02T07:10:28Z",
         "Started": "2021-07-13T17:15:00Z",
         "AdminUnit": "CAL FIRE, Lassen National Forest and National Park Service",
         "AdminUnitUrl": null,
-        "County": "Butte, Plumas, Shasta, Tehama, Lassen",
+        "County": "Butte, Plumas, Shasta, Lassen, Tehama",
         "Location": "Above the Cresta Dam, Feather River Canyon",
         "AcresBurned": 963309,
         "PercentContained": 94,
@@ -6103,7 +6103,7 @@
       "properties": {
         "Name": "Fawn Fire",
         "Final": false,
-        "Updated": "2021-10-01T19:12:00Z",
+        "Updated": "2021-10-02T07:10:20Z",
         "Started": "2021-09-22T16:45:00Z",
         "AdminUnit": "CAL FIRE Shasta-Trinity Unit",
         "AdminUnitUrl": null,
