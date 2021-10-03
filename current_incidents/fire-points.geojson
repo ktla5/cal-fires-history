@@ -385,41 +385,6 @@
         "CalFireIncident": false,
         "NotificationDesired": false
       }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.320243,
-          40.729811
-        ]
-      },
-      "properties": {
-        "Name": "Fawn Fire",
-        "Final": false,
-        "Updated": "2021-10-02T07:10:20Z",
-        "Started": "2021-09-22T16:45:00Z",
-        "AdminUnit": "CAL FIRE Shasta-Trinity Unit",
-        "AdminUnitUrl": null,
-        "County": "Shasta",
-        "Location": "Fawndale Rd and Radcliff Rd, 5 miles northeast of Shasta Lake",
-        "AcresBurned": 8578,
-        "PercentContained": 90,
-        "ControlStatement": null,
-        "AgencyNames": "Cooperating Agencies: Shasta County Fire Department, Redding Fire Department, Shasta Lake Fire Protection District, Mountain Gate Fire Protection District, United States Forest Service, Shasta County Sheriff’s Office, California Department of Corrections and Rehabilitation, California Conservation Corps, California National Guard, California Governor’s Office of Emergency Services, American Red Cross, Redding Police Department, California Highway Patrol",
-        "Longitude": -122.320243,
-        "Latitude": 40.729811,
-        "Type": "Wildfire",
-        "UniqueId": "1052ac46-526c-4ca1-a75c-7e91920ee6cb",
-        "Url": "https://www.fire.ca.gov/incidents/2021/9/22/fawn-fire/",
-        "ExtinguishedDate": "",
-        "ExtinguishedDateOnly": "",
-        "StartedDateOnly": "2021-09-22",
-        "IsActive": true,
-        "CalFireIncident": false,
-        "NotificationDesired": false
-      }
     }
   ]
 }
