@@ -4667,8 +4667,8 @@
       },
       "properties": {
         "Name": "Monument Fire",
-        "Final": false,
-        "Updated": "2021-09-17T12:39:05Z",
+        "Final": true,
+        "Updated": "2021-10-06T20:02:55Z",
         "Started": "2021-07-30T12:28:00Z",
         "AdminUnit": "Shasta Trinity National Forest",
         "AdminUnitUrl": null,
@@ -4686,7 +4686,7 @@
         "ExtinguishedDate": "",
         "ExtinguishedDateOnly": "",
         "StartedDateOnly": "2021-07-30",
-        "IsActive": true,
+        "IsActive": false,
         "CalFireIncident": false,
         "NotificationDesired": false
       }
