@@ -4667,8 +4667,8 @@
       },
       "properties": {
         "Name": "Monument Fire",
-        "Final": true,
-        "Updated": "2021-10-06T20:02:55Z",
+        "Final": false,
+        "Updated": "2021-10-07T08:15:40Z",
         "Started": "2021-07-30T12:28:00Z",
         "AdminUnit": "Shasta Trinity National Forest",
         "AdminUnitUrl": null,
@@ -4686,7 +4686,7 @@
         "ExtinguishedDate": "",
         "ExtinguishedDateOnly": "",
         "StartedDateOnly": "2021-07-30",
-        "IsActive": false,
+        "IsActive": true,
         "CalFireIncident": false,
         "NotificationDesired": false
       }
@@ -5962,8 +5962,8 @@
       },
       "properties": {
         "Name": "Emigrant Fire",
-        "Final": false,
-        "Updated": "2021-09-20T07:57:44Z",
+        "Final": true,
+        "Updated": "2021-10-07T08:15:18Z",
         "Started": "2021-09-17T13:34:00Z",
         "AdminUnit": "Angeles National Forest ",
         "AdminUnitUrl": null,
@@ -5981,7 +5981,7 @@
         "ExtinguishedDate": "",
         "ExtinguishedDateOnly": "",
         "StartedDateOnly": "2021-09-17",
-        "IsActive": true,
+        "IsActive": false,
         "CalFireIncident": false,
         "NotificationDesired": false
       }
