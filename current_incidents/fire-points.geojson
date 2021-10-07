@@ -385,6 +385,41 @@
         "CalFireIncident": false,
         "NotificationDesired": false
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.02375,
+          40.649917
+        ]
+      },
+      "properties": {
+        "Name": "Maxwell Fire",
+        "Final": false,
+        "Updated": "2021-10-06T19:06:36Z",
+        "Started": "2021-10-05T15:34:31Z",
+        "AdminUnit": "CAL FIRE Shasta-Trinity Unit",
+        "AdminUnitUrl": null,
+        "County": "Trinity",
+        "Location": "Maxwell Creek Rd and Clems Flat, west of Douglas City ",
+        "AcresBurned": 80,
+        "PercentContained": 10,
+        "ControlStatement": null,
+        "AgencyNames": "",
+        "Longitude": -123.02375,
+        "Latitude": 40.649917,
+        "Type": "Wildfire",
+        "UniqueId": "ffb98e82-9a8a-44fe-9d91-45ce3db74ef5",
+        "Url": "https://www.fire.ca.gov/incidents/2021/10/5/maxwell-fire/",
+        "ExtinguishedDate": "",
+        "ExtinguishedDateOnly": "",
+        "StartedDateOnly": "2021-10-05",
+        "IsActive": true,
+        "CalFireIncident": true,
+        "NotificationDesired": false
+      }
     }
   ]
 }
