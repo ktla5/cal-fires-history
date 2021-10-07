@@ -111,6 +111,41 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -123.337,
+          40.752
+        ]
+      },
+      "properties": {
+        "Name": "Monument Fire",
+        "Final": false,
+        "Updated": "2021-10-07T08:15:40Z",
+        "Started": "2021-07-30T12:28:00Z",
+        "AdminUnit": "Shasta Trinity National Forest",
+        "AdminUnitUrl": null,
+        "County": "Trinity",
+        "Location": "Del Loma, CA near Monument Peak",
+        "AcresBurned": null,
+        "PercentContained": null,
+        "ControlStatement": null,
+        "AgencyNames": "Shasta Trinity National Forest, Cooperating Agencies: California Highway Patrol, CalTrans, Trinity County Sheriff’s, Trinity County OES, Trinity County Public Utilities District, California Department of Corrections and Rehabilitation, California Conservation Corps, California National Guard, California Governor’s Office of Emergency Services, Hayfork Fire, Weaverville Fire, Junction City Fire, State of Washington, State of Arizona, State of Oklahoma, State of Alaska, State of Wisconsin, State of New Hampshire, State of Kentucky, State of Montana",
+        "Longitude": -123.337,
+        "Latitude": 40.752,
+        "Type": "Wildfire",
+        "UniqueId": "1d1bb813-5955-438a-a2cd-0e2d46074f1a",
+        "Url": "https://www.fire.ca.gov/incidents/2021/7/30/monument-fire/",
+        "ExtinguishedDate": "",
+        "ExtinguishedDateOnly": "",
+        "StartedDateOnly": "2021-07-30",
+        "IsActive": true,
+        "CalFireIncident": false,
+        "NotificationDesired": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -123.057,
           41.389
         ]
@@ -311,41 +346,6 @@
         "ExtinguishedDate": "",
         "ExtinguishedDateOnly": "",
         "StartedDateOnly": "2021-09-10",
-        "IsActive": true,
-        "CalFireIncident": false,
-        "NotificationDesired": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.760816,
-          34.665169
-        ]
-      },
-      "properties": {
-        "Name": "Emigrant Fire",
-        "Final": false,
-        "Updated": "2021-09-20T07:57:44Z",
-        "Started": "2021-09-17T13:34:00Z",
-        "AdminUnit": "Angeles National Forest ",
-        "AdminUnitUrl": null,
-        "County": "Los Angeles",
-        "Location": "North Bound I-5 & Vista Del Lago Rd, Pyramid Lake ",
-        "AcresBurned": null,
-        "PercentContained": null,
-        "ControlStatement": null,
-        "AgencyNames": "Angeles National Forest ",
-        "Longitude": -118.760816,
-        "Latitude": 34.665169,
-        "Type": "Wildfire",
-        "UniqueId": "3d2add8f-fc17-42d2-8cdc-884d40c0912c",
-        "Url": "https://www.fire.ca.gov/incidents/2021/9/17/emigrant-fire/",
-        "ExtinguishedDate": "",
-        "ExtinguishedDateOnly": "",
-        "StartedDateOnly": "2021-09-17",
         "IsActive": true,
         "CalFireIncident": false,
         "NotificationDesired": false
