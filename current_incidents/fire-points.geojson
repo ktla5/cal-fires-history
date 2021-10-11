@@ -385,6 +385,41 @@
         "CalFireIncident": true,
         "NotificationDesired": false
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.436754,
+          40.287225
+        ]
+      },
+      "properties": {
+        "Name": "View Fire ",
+        "Final": false,
+        "Updated": "2021-10-11T15:48:47Z",
+        "Started": "2021-10-11T14:35:42Z",
+        "AdminUnit": "CAL FIRE Tehama-Glen Unit",
+        "AdminUnitUrl": null,
+        "County": "Tehama",
+        "Location": "View Dr and Digger Pine Rd, Southwest of Cottonwood",
+        "AcresBurned": 20,
+        "PercentContained": 0,
+        "ControlStatement": null,
+        "AgencyNames": "",
+        "Longitude": -122.436754,
+        "Latitude": 40.287225,
+        "Type": "Wildfire",
+        "UniqueId": "66eaca2a-9aa7-41cf-a850-88f963cbf723",
+        "Url": "https://www.fire.ca.gov/incidents/2021/10/11/view-fire/",
+        "ExtinguishedDate": "",
+        "ExtinguishedDateOnly": "",
+        "StartedDateOnly": "2021-10-11",
+        "IsActive": true,
+        "CalFireIncident": true,
+        "NotificationDesired": false
+      }
     }
   ]
 }
