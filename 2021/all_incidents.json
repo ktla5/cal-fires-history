@@ -6335,6 +6335,76 @@
         "CalFireIncident": true,
         "NotificationDesired": false
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.358206,
+          41.862388
+        ]
+      },
+      "properties": {
+        "Name": "Gravel Fire",
+        "Final": false,
+        "Updated": "2021-10-15T19:16:37Z",
+        "Started": "2021-10-15T15:15:00Z",
+        "AdminUnit": "USFS - Modoc National Forest",
+        "AdminUnitUrl": null,
+        "County": "Modoc",
+        "Location": "Highway 395 and Goose Lake, 27 Miles north of Alturas",
+        "AcresBurned": null,
+        "PercentContained": null,
+        "ControlStatement": null,
+        "AgencyNames": "Modoc National Forest",
+        "Longitude": -120.358206,
+        "Latitude": 41.862388,
+        "Type": "Wildfire",
+        "UniqueId": "55df2f9c-3232-4643-970b-0286a1039507",
+        "Url": "https://www.fire.ca.gov/incidents/2021/10/15/gravel-fire/",
+        "ExtinguishedDate": "",
+        "ExtinguishedDateOnly": "",
+        "StartedDateOnly": "2021-10-15",
+        "IsActive": true,
+        "CalFireIncident": false,
+        "NotificationDesired": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.752106,
+          37.013464
+        ]
+      },
+      "properties": {
+        "Name": "Estrada Fire",
+        "Final": false,
+        "Updated": "2021-10-15T19:35:22Z",
+        "Started": "2021-10-15T14:40:39Z",
+        "AdminUnit": "CZU",
+        "AdminUnitUrl": null,
+        "County": "Santa Cruz",
+        "Location": "Hazel Dell Road and Hidden Canyon.  Northwest of Watsonville",
+        "AcresBurned": 120,
+        "PercentContained": 0,
+        "ControlStatement": null,
+        "AgencyNames": "",
+        "Longitude": -121.752106,
+        "Latitude": 37.013464,
+        "Type": "Wildfire",
+        "UniqueId": "5f34e7bc-b627-4baf-9e6e-ded2eec3c77a",
+        "Url": "https://www.fire.ca.gov/incidents/2021/10/15/estrada-fire/",
+        "ExtinguishedDate": "",
+        "ExtinguishedDateOnly": "",
+        "StartedDateOnly": "2021-10-15",
+        "IsActive": true,
+        "CalFireIncident": true,
+        "NotificationDesired": false
+      }
     }
   ]
 }
