@@ -391,41 +391,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -120.358206,
-          41.862388
-        ]
-      },
-      "properties": {
-        "Name": "Gravel Fire",
-        "Final": true,
-        "Updated": "2021-10-16T19:25:44Z",
-        "Started": "2021-10-15T15:15:00Z",
-        "AdminUnit": "USFS - Modoc National Forest",
-        "AdminUnitUrl": null,
-        "County": "Modoc",
-        "Location": "Highway 395 and Goose Lake, 27 Miles north of Alturas",
-        "AcresBurned": 200,
-        "PercentContained": 100,
-        "ControlStatement": null,
-        "AgencyNames": "Modoc National Forest",
-        "Longitude": -120.358206,
-        "Latitude": 41.862388,
-        "Type": "Wildfire",
-        "UniqueId": "55df2f9c-3232-4643-970b-0286a1039507",
-        "Url": "https://www.fire.ca.gov/incidents/2021/10/15/gravel-fire/",
-        "ExtinguishedDate": "2021-10-16T19:25:23Z",
-        "ExtinguishedDateOnly": "2021-10-16",
-        "StartedDateOnly": "2021-10-15",
-        "IsActive": true,
-        "CalFireIncident": false,
-        "NotificationDesired": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -121.752106,
           37.013464
         ]
@@ -433,7 +398,7 @@
       "properties": {
         "Name": "Estrada Fire",
         "Final": false,
-        "Updated": "2021-10-16T19:19:37Z",
+        "Updated": "2021-10-17T08:57:26Z",
         "Started": "2021-10-15T14:40:39Z",
         "AdminUnit": "CZU",
         "AdminUnitUrl": null,
