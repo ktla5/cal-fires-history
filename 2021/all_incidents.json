@@ -6348,7 +6348,7 @@
       "properties": {
         "Name": "Gravel Fire",
         "Final": true,
-        "Updated": "2021-10-16T19:25:44Z",
+        "Updated": "2021-10-17T08:52:22Z",
         "Started": "2021-10-15T15:15:00Z",
         "AdminUnit": "USFS - Modoc National Forest",
         "AdminUnitUrl": null,
@@ -6366,7 +6366,7 @@
         "ExtinguishedDate": "2021-10-16T19:25:23Z",
         "ExtinguishedDateOnly": "2021-10-16",
         "StartedDateOnly": "2021-10-15",
-        "IsActive": true,
+        "IsActive": false,
         "CalFireIncident": false,
         "NotificationDesired": false
       }
@@ -6383,7 +6383,7 @@
       "properties": {
         "Name": "Estrada Fire",
         "Final": false,
-        "Updated": "2021-10-16T19:19:37Z",
+        "Updated": "2021-10-17T08:57:26Z",
         "Started": "2021-10-15T14:40:39Z",
         "AdminUnit": "CZU",
         "AdminUnitUrl": null,
