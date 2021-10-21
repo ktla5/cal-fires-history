@@ -385,41 +385,6 @@
         "CalFireIncident": false,
         "NotificationDesired": false
       }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.752106,
-          37.013464
-        ]
-      },
-      "properties": {
-        "Name": "Estrada Fire",
-        "Final": false,
-        "Updated": "2021-10-19T18:20:37Z",
-        "Started": "2021-10-15T14:40:39Z",
-        "AdminUnit": "CZU",
-        "AdminUnitUrl": null,
-        "County": "Santa Cruz",
-        "Location": "Hazel Dell Road and Hidden Canyon.  Northwest of Watsonville",
-        "AcresBurned": 148,
-        "PercentContained": 90,
-        "ControlStatement": null,
-        "AgencyNames": "",
-        "Longitude": -121.752106,
-        "Latitude": 37.013464,
-        "Type": "Wildfire",
-        "UniqueId": "5f34e7bc-b627-4baf-9e6e-ded2eec3c77a",
-        "Url": "https://www.fire.ca.gov/incidents/2021/10/15/estrada-fire/",
-        "ExtinguishedDate": "",
-        "ExtinguishedDateOnly": "",
-        "StartedDateOnly": "2021-10-15",
-        "IsActive": true,
-        "CalFireIncident": true,
-        "NotificationDesired": false
-      }
     }
   ]
 }
