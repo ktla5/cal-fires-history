@@ -6405,6 +6405,41 @@
         "CalFireIncident": true,
         "NotificationDesired": false
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.52692,
+          37.62879
+        ]
+      },
+      "properties": {
+        "Name": "Hollow Fire",
+        "Final": true,
+        "Updated": "2021-10-24T16:38:17Z",
+        "Started": "2021-10-24T13:40:00Z",
+        "AdminUnit": null,
+        "AdminUnitUrl": null,
+        "County": "San Joaquin",
+        "Location": "West Corral Hollow Rd and Site 300, 6 miles southwest of Tracy",
+        "AcresBurned": 150,
+        "PercentContained": 100,
+        "ControlStatement": null,
+        "AgencyNames": "",
+        "Longitude": -121.52692,
+        "Latitude": 37.62879,
+        "Type": "Wildfire",
+        "UniqueId": "8e7dcc1b-718b-4388-9e20-bef4b9b94385",
+        "Url": "https://www.fire.ca.gov/incidents/2021/10/24/hollow-fire/",
+        "ExtinguishedDate": "2021-10-24T16:38:08Z",
+        "ExtinguishedDateOnly": "2021-10-24",
+        "StartedDateOnly": "2021-10-24",
+        "IsActive": false,
+        "CalFireIncident": false,
+        "NotificationDesired": false
+      }
     }
   ]
 }
