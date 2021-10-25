@@ -6,41 +6,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -121.389439,
-          39.871306
-        ]
-      },
-      "properties": {
-        "Name": "Dixie Fire",
-        "Final": false,
-        "Updated": "2021-10-02T08:00:13Z",
-        "Started": "2021-07-13T17:15:00Z",
-        "AdminUnit": "Lassen National Forest and National Park Service",
-        "AdminUnitUrl": null,
-        "County": "Butte, Plumas, Shasta, Lassen, Tehama",
-        "Location": "Above the Cresta Dam, Feather River Canyon",
-        "AcresBurned": null,
-        "PercentContained": null,
-        "ControlStatement": null,
-        "AgencyNames": "Butte County Sheriff Office , Butte County Sheriff's Office, Plumas County Sheriff's Office, Lassen County Sheriff's Office, Tehama County Sheriff's Office, Shasta County Sheriff's Office, CHP, PG&E, CAL OES, CAL-EMSA, California National Guard, California Conservation Corps, CAL TRANS, Sierra Pacific Industries, W.M. Beaty and Associates, Collins Pine, California Department of Corrections, Burlington Northern Santa Fe Railroad, Union Pacific Railroad",
-        "Longitude": -121.389439,
-        "Latitude": 39.871306,
-        "Type": "Wildfire",
-        "UniqueId": "00016d5d-1647-49e4-a02a-abf46b8480ae",
-        "Url": "https://www.fire.ca.gov/incidents/2021/7/13/dixie-fire/",
-        "ExtinguishedDate": "",
-        "ExtinguishedDateOnly": "",
-        "StartedDateOnly": "2021-07-13",
-        "IsActive": true,
-        "CalFireIncident": false,
-        "NotificationDesired": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -119.8591887,
           38.6280042
         ]
