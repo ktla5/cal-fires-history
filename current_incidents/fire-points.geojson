@@ -41,41 +41,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -123.404,
-          41.564
-        ]
-      },
-      "properties": {
-        "Name": "McCash Fire",
-        "Final": false,
-        "Updated": "2021-09-07T15:09:33Z",
-        "Started": "2021-08-18T08:50:00Z",
-        "AdminUnit": "Six Rivers National Forest",
-        "AdminUnitUrl": null,
-        "County": "Siskiyou",
-        "Location": "Ten Bear Mtn McCash Creek",
-        "AcresBurned": null,
-        "PercentContained": null,
-        "ControlStatement": null,
-        "AgencyNames": "Six Rivers National Forest ",
-        "Longitude": -123.404,
-        "Latitude": 41.564,
-        "Type": "Fire",
-        "UniqueId": "87b59fb2-01f9-4469-8578-87c55b090eac",
-        "Url": "https://www.fire.ca.gov/incidents/2021/8/18/mccash-fire/",
-        "ExtinguishedDate": "",
-        "ExtinguishedDateOnly": "",
-        "StartedDateOnly": "2021-08-18",
-        "IsActive": true,
-        "CalFireIncident": false,
-        "NotificationDesired": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -118.501515,
           35.674926
         ]
