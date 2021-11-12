@@ -4597,8 +4597,8 @@
       },
       "properties": {
         "Name": "Antelope Fire",
-        "Final": false,
-        "Updated": "2021-09-07T15:10:43Z",
+        "Final": true,
+        "Updated": "2021-11-12T12:01:49Z",
         "Started": "2021-08-01T11:28:25Z",
         "AdminUnit": "Klamath National Forest",
         "AdminUnitUrl": null,
@@ -4613,10 +4613,10 @@
         "Type": "Wildfire",
         "UniqueId": "dc3380c7-ff32-4062-a4e8-be99b655f2c6",
         "Url": "https://www.fire.ca.gov/incidents/2021/8/1/antelope-fire/",
-        "ExtinguishedDate": "",
-        "ExtinguishedDateOnly": "",
+        "ExtinguishedDate": "2021-10-15T12:01:36Z",
+        "ExtinguishedDateOnly": "2021-10-15",
         "StartedDateOnly": "2021-08-01",
-        "IsActive": true,
+        "IsActive": false,
         "CalFireIncident": false,
         "NotificationDesired": false
       }
@@ -5192,8 +5192,8 @@
       },
       "properties": {
         "Name": "French Fire",
-        "Final": false,
-        "Updated": "2021-09-07T15:08:55Z",
+        "Final": true,
+        "Updated": "2021-11-12T12:02:39Z",
         "Started": "2021-08-18T18:20:00Z",
         "AdminUnit": "Kern County Fire",
         "AdminUnitUrl": null,
@@ -5208,10 +5208,10 @@
         "Type": "Wildfire",
         "UniqueId": "11804a96-faa3-4671-b420-6591e4e95f49",
         "Url": "https://www.fire.ca.gov/incidents/2021/8/18/french-fire/",
-        "ExtinguishedDate": "",
-        "ExtinguishedDateOnly": "",
+        "ExtinguishedDate": "2021-10-20T12:02:29Z",
+        "ExtinguishedDateOnly": "2021-10-20",
         "StartedDateOnly": "2021-08-18",
-        "IsActive": true,
+        "IsActive": false,
         "CalFireIncident": false,
         "NotificationDesired": false
       }
@@ -5892,8 +5892,8 @@
       },
       "properties": {
         "Name": "Windy Fire",
-        "Final": false,
-        "Updated": "2021-09-28T14:23:33Z",
+        "Final": true,
+        "Updated": "2021-11-12T12:02:15Z",
         "Started": "2021-09-09T12:00:00Z",
         "AdminUnit": "Sequoia National Forest / Tule River Indian Reservation",
         "AdminUnitUrl": null,
@@ -5908,10 +5908,10 @@
         "Type": "Wildfire",
         "UniqueId": "cb9d8266-3c5e-4c42-97a8-fdf0fa69a6b1",
         "Url": "https://www.fire.ca.gov/incidents/2021/9/9/windy-fire/",
-        "ExtinguishedDate": "",
-        "ExtinguishedDateOnly": "",
+        "ExtinguishedDate": "2021-11-11T12:02:02Z",
+        "ExtinguishedDateOnly": "2021-11-11",
         "StartedDateOnly": "2021-09-09",
-        "IsActive": true,
+        "IsActive": false,
         "CalFireIncident": false,
         "NotificationDesired": false
       }
