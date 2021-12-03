@@ -41,41 +41,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -120.136,
-          34.553
-        ]
-      },
-      "properties": {
-        "Name": "Alisal Fire",
-        "Final": false,
-        "Updated": "2021-10-28T09:25:01Z",
-        "Started": "2021-10-11T14:30:12Z",
-        "AdminUnit": "Unified Command Santa Barbara County Fire and Los Padres National Forest",
-        "AdminUnitUrl": null,
-        "County": "Santa Barbara",
-        "Location": "Northwest of Refugio Canyon near Hwy 101 along the Gaviota Coast",
-        "AcresBurned": null,
-        "PercentContained": null,
-        "ControlStatement": null,
-        "AgencyNames": "Santa Barbara County Fire, USFS - Los Padres National Forest",
-        "Longitude": -120.136,
-        "Latitude": 34.553,
-        "Type": "Wildfire",
-        "UniqueId": "de52a8d2-2c0e-4481-8d6c-9e4b7c2b9428",
-        "Url": "https://www.fire.ca.gov/incidents/2021/10/11/alisal-fire/",
-        "ExtinguishedDate": "",
-        "ExtinguishedDateOnly": "",
-        "StartedDateOnly": "2021-10-11",
-        "IsActive": true,
-        "CalFireIncident": false,
-        "NotificationDesired": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -117.487947,
           33.952633
         ]
