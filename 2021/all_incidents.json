@@ -3401,6 +3401,41 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -120.3415,
+          39.83203
+        ]
+      },
+      "properties": {
+        "Name": "Sugar Fire",
+        "Final": false,
+        "Updated": "2021-12-27T18:48:16Z",
+        "Started": "2021-07-02T16:04:00Z",
+        "AdminUnit": "Plumas National Forest & CAL FIRE Lassen-Modoc Unit",
+        "AdminUnitUrl": null,
+        "County": "Plumas",
+        "Location": "tate Highway 70 x Sugarloaf Peak, northeast of Beckworth",
+        "AcresBurned": null,
+        "PercentContained": null,
+        "ControlStatement": null,
+        "AgencyNames": "Plumas National Forest, CAL FIRE Lassen-Modoc Unit",
+        "Longitude": -120.3415,
+        "Latitude": 39.83203,
+        "Type": "Fire",
+        "UniqueId": "700200c7-a450-44f4-a447-244feb07925c",
+        "Url": "https://www.fire.ca.gov/incidents/2021/7/2/sugar-fire/",
+        "ExtinguishedDate": "",
+        "ExtinguishedDateOnly": "",
+        "StartedDateOnly": "2021-07-02",
+        "IsActive": false,
+        "CalFireIncident": false,
+        "NotificationDesired": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -116.677511,
           33.119448
         ]
