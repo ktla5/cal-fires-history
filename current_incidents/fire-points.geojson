@@ -1,40 +1,4 @@
 {
   "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.487947,
-          33.952633
-        ]
-      },
-      "properties": {
-        "Name": "Lanza Fire",
-        "Final": false,
-        "Updated": "2022-01-05T10:17:58Z",
-        "Started": "2021-11-21T11:45:14Z",
-        "AdminUnit": null,
-        "AdminUnitUrl": null,
-        "County": "Riverside",
-        "Location": "Mitchell Ave and Valley Dr. ",
-        "AcresBurned": null,
-        "PercentContained": null,
-        "ControlStatement": null,
-        "AgencyNames": "",
-        "Longitude": -117.487947,
-        "Latitude": 33.952633,
-        "Type": "Fire",
-        "UniqueId": "24117f47-d8e6-4f62-8077-d5bb6742eb9c",
-        "Url": "https://www.fire.ca.gov/incidents/2022/11/21/lanza-fire/",
-        "ExtinguishedDate": "",
-        "ExtinguishedDateOnly": "",
-        "StartedDateOnly": "2021-11-21",
-        "IsActive": true,
-        "CalFireIncident": false,
-        "NotificationDesired": false
-      }
-    }
-  ]
+  "features": []
 }
