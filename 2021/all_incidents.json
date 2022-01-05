@@ -5956,6 +5956,41 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -118.811,
+          36.567
+        ]
+      },
+      "properties": {
+        "Name": "KNP Complex",
+        "Final": true,
+        "Updated": "2022-01-05T11:08:36Z",
+        "Started": "2021-09-10T07:00:00Z",
+        "AdminUnit": "Sequoia & Kings Canyon National Parks",
+        "AdminUnitUrl": null,
+        "County": "Tulare",
+        "Location": "Sequoia National Park",
+        "AcresBurned": null,
+        "PercentContained": null,
+        "ControlStatement": null,
+        "AgencyNames": "Sequoia National Park",
+        "Longitude": -118.811,
+        "Latitude": 36.567,
+        "Type": "Wildfire",
+        "UniqueId": "48dcd1c3-e791-49d8-9435-1b358027b318",
+        "Url": "https://www.fire.ca.gov/incidents/2021/9/10/knp-complex/",
+        "ExtinguishedDate": "2021-12-21T10:20:54Z",
+        "ExtinguishedDateOnly": "2021-12-21",
+        "StartedDateOnly": "2021-09-10",
+        "IsActive": false,
+        "CalFireIncident": false,
+        "NotificationDesired": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -118.760816,
           34.665169
         ]
@@ -6436,6 +6471,41 @@
         "ExtinguishedDate": "2021-10-24T16:38:08Z",
         "ExtinguishedDateOnly": "2021-10-24",
         "StartedDateOnly": "2021-10-24",
+        "IsActive": false,
+        "CalFireIncident": false,
+        "NotificationDesired": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.487947,
+          33.952633
+        ]
+      },
+      "properties": {
+        "Name": "Arlanza Fire",
+        "Final": true,
+        "Updated": "2022-01-05T11:10:51Z",
+        "Started": "2021-11-21T11:45:14Z",
+        "AdminUnit": null,
+        "AdminUnitUrl": null,
+        "County": "Riverside",
+        "Location": "Mitchell Ave and Valley Dr. ",
+        "AcresBurned": null,
+        "PercentContained": null,
+        "ControlStatement": null,
+        "AgencyNames": "",
+        "Longitude": -117.487947,
+        "Latitude": 33.952633,
+        "Type": "Fire",
+        "UniqueId": "24117f47-d8e6-4f62-8077-d5bb6742eb9c",
+        "Url": "https://www.fire.ca.gov/incidents/2021/11/21/arlanza-fire/",
+        "ExtinguishedDate": "2021-11-21T10:44:49Z",
+        "ExtinguishedDateOnly": "2021-11-21",
+        "StartedDateOnly": "2021-11-21",
         "IsActive": false,
         "CalFireIncident": false,
         "NotificationDesired": false
