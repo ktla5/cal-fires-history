@@ -1,40 +1,4 @@
 {
   "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.371813,
-          37.369355
-        ]
-      },
-      "properties": {
-        "Name": "Airport Fire",
-        "Final": false,
-        "Updated": "2022-02-25T09:40:03Z",
-        "Started": "2022-02-16T16:06:41Z",
-        "AdminUnit": "BDU",
-        "AdminUnitUrl": null,
-        "County": "Inyo",
-        "Location": "Airport Road and East Line Street, east of Bishop ",
-        "AcresBurned": 4136,
-        "PercentContained": 95,
-        "ControlStatement": null,
-        "AgencyNames": "Inyo Sheriff, Inyo National Forest Service, Los Angeles Department of Water & Power",
-        "Longitude": -118.371813,
-        "Latitude": 37.369355,
-        "Type": "Wildfire",
-        "UniqueId": "0261dfa0-f1c5-401b-abf3-91184cd2ac2c",
-        "Url": "https://www.fire.ca.gov/incidents/2022/2/16/airport-fire/",
-        "ExtinguishedDate": "",
-        "ExtinguishedDateOnly": "",
-        "StartedDateOnly": "2022-02-16",
-        "IsActive": true,
-        "CalFireIncident": false,
-        "NotificationDesired": false
-      }
-    }
-  ]
+  "features": []
 }
