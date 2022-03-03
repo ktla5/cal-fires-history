@@ -6,14 +6,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.518103764328,
-          33.6769121960458
+          -117.5181037,
+          33.67691
         ]
       },
       "properties": {
         "Name": "Jim Fire ",
         "Final": false,
-        "Updated": "2022-03-02T14:35:50Z",
+        "Updated": "2022-03-03T14:09:23Z",
         "Started": "2022-03-02T11:06:00Z",
         "AdminUnit": "Cleveland National Forest ",
         "AdminUnitUrl": null,
@@ -23,8 +23,8 @@
         "PercentContained": null,
         "ControlStatement": null,
         "AgencyNames": "",
-        "Longitude": -117.518103764328,
-        "Latitude": 33.6769121960458,
+        "Longitude": -117.5181037,
+        "Latitude": 33.67691,
         "Type": "Wildfire",
         "UniqueId": "e4391d31-46b5-49ad-b4d5-4a934b73d08b",
         "Url": "https://www.fire.ca.gov/incidents/2022/3/2/jim-fire/",
@@ -41,25 +41,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.4580356,
-          38.291859
+          -123.015106,
+          38.46234
         ]
       },
       "properties": {
         "Name": "Alpine Fire ",
         "Final": false,
-        "Updated": "2022-03-03T09:51:27Z",
+        "Updated": "2022-03-03T14:05:18Z",
         "Started": "2022-03-01T17:15:00Z",
         "AdminUnit": "CAL FIRE Sonoma Lake Napa Unit ",
         "AdminUnitUrl": null,
         "County": "Sonoma",
         "Location": "Near Monte Rio",
         "AcresBurned": 11,
-        "PercentContained": 50,
+        "PercentContained": 65,
         "ControlStatement": null,
         "AgencyNames": "",
-        "Longitude": -122.4580356,
-        "Latitude": 38.291859,
+        "Longitude": -123.015106,
+        "Latitude": 38.46234,
         "Type": "Wildfire",
         "UniqueId": "ee27ed9e-44fb-4133-a2c9-f16a90fbeb46",
         "Url": "https://www.fire.ca.gov/incidents/2022/3/1/alpine-fire/",
