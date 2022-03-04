@@ -70,6 +70,41 @@
         "CalFireIncident": true,
         "NotificationDesired": false
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4073,
+          40.67671
+        ]
+      },
+      "properties": {
+        "Name": "Flanagan Fire ",
+        "Final": false,
+        "Updated": "2022-03-04T15:14:02Z",
+        "Started": "2022-03-04T10:31:00Z",
+        "AdminUnit": "CAL FIRE Shasta-Trinity Unit ",
+        "AdminUnitUrl": null,
+        "County": "Shasta",
+        "Location": "Flanagan Road and N Beltline Road, west of Shasta Lake City",
+        "AcresBurned": 15,
+        "PercentContained": null,
+        "ControlStatement": null,
+        "AgencyNames": "",
+        "Longitude": -122.4073,
+        "Latitude": 40.67671,
+        "Type": "Wildfire",
+        "UniqueId": "719127a0-5d9b-42e6-985f-ce3e6a718c0e",
+        "Url": "https://www.fire.ca.gov/incidents/2022/3/4/flanagan-fire/",
+        "ExtinguishedDate": "",
+        "ExtinguishedDateOnly": "",
+        "StartedDateOnly": "2022-03-04",
+        "IsActive": true,
+        "CalFireIncident": true,
+        "NotificationDesired": false
+      }
     }
   ]
 }
