@@ -13,7 +13,7 @@
       "properties": {
         "Name": "Jim Fire ",
         "Final": false,
-        "Updated": "2022-03-03T14:09:23Z",
+        "Updated": "2022-03-04T19:38:14Z",
         "Started": "2022-03-02T11:06:00Z",
         "AdminUnit": "Cleveland National Forest ",
         "AdminUnitUrl": null,
@@ -48,13 +48,13 @@
       "properties": {
         "Name": "Alpine Fire ",
         "Final": false,
-        "Updated": "2022-03-04T07:49:58Z",
+        "Updated": "2022-03-04T19:38:28Z",
         "Started": "2022-03-01T17:15:00Z",
         "AdminUnit": "CAL FIRE Sonoma Lake Napa Unit ",
         "AdminUnitUrl": null,
         "County": "Sonoma",
         "Location": "Near Monte Rio",
-        "AcresBurned": 11,
+        "AcresBurned": 21,
         "PercentContained": 65,
         "ControlStatement": null,
         "AgencyNames": "",
@@ -83,7 +83,7 @@
       "properties": {
         "Name": "Flanagan Fire ",
         "Final": false,
-        "Updated": "2022-03-04T17:22:05Z",
+        "Updated": "2022-03-04T19:38:20Z",
         "Started": "2022-03-04T10:31:00Z",
         "AdminUnit": "CAL FIRE Shasta-Trinity Unit ",
         "AdminUnitUrl": null,
