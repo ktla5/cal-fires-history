@@ -140,6 +140,41 @@
         "CalFireIncident": true,
         "NotificationDesired": false
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3685584,
+          41.4455854
+        ]
+      },
+      "properties": {
+        "Name": "Evergreen Fire ",
+        "Final": false,
+        "Updated": "2022-03-12T15:10:35Z",
+        "Started": "2022-03-12T13:17:00Z",
+        "AdminUnit": "CAL FIRE Siskiyou ",
+        "AdminUnitUrl": null,
+        "County": "Siskiyou",
+        "Location": "Evergreen Lane & Hwy 97, northeast of Weed.",
+        "AcresBurned": 5,
+        "PercentContained": null,
+        "ControlStatement": null,
+        "AgencyNames": "",
+        "Longitude": -122.3685584,
+        "Latitude": 41.4455854,
+        "Type": "Wildfire",
+        "UniqueId": "09f9ff54-30ba-48d7-a8f3-9dd6a627fafd",
+        "Url": "https://www.fire.ca.gov/incidents/2022/3/12/evergreen-fire/",
+        "ExtinguishedDate": "",
+        "ExtinguishedDateOnly": "",
+        "StartedDateOnly": "2022-03-12",
+        "IsActive": true,
+        "CalFireIncident": true,
+        "NotificationDesired": false
+      }
     }
   ]
 }
