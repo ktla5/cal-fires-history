@@ -105,6 +105,41 @@
         "CalFireIncident": true,
         "NotificationDesired": false
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.9015432,
+          41.9525087
+        ]
+      },
+      "properties": {
+        "Name": "Gulch Fire ",
+        "Final": false,
+        "Updated": "2022-03-12T14:21:29Z",
+        "Started": "2022-03-12T12:46:00Z",
+        "AdminUnit": "CAL FIRE Siskiyou ",
+        "AdminUnitUrl": null,
+        "County": "Siskiyou",
+        "Location": "Dorrid Brownell Road and East Butte Valley Road, southeast of Dorris ",
+        "AcresBurned": 20,
+        "PercentContained": 0,
+        "ControlStatement": null,
+        "AgencyNames": "",
+        "Longitude": -121.9015432,
+        "Latitude": 41.9525087,
+        "Type": "Wildfire",
+        "UniqueId": "264c5249-6933-4d8f-a270-25462d14a407",
+        "Url": "https://www.fire.ca.gov/incidents/2022/3/12/gulch-fire/",
+        "ExtinguishedDate": "",
+        "ExtinguishedDateOnly": "",
+        "StartedDateOnly": "2022-03-12",
+        "IsActive": true,
+        "CalFireIncident": true,
+        "NotificationDesired": false
+      }
     }
   ]
 }
