@@ -41,25 +41,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -121.9015432,
-          41.9525087
+          -120.2770391,
+          34.4687419
         ]
       },
       "properties": {
         "Name": "Hollister Fire",
         "Final": false,
-        "Updated": "2022-03-14T19:44:36Z",
+        "Updated": "2022-03-15T18:06:29Z",
         "Started": "2022-03-12T11:35:00Z",
         "AdminUnit": "Santa Barbra County Fire Department ",
         "AdminUnitUrl": null,
         "County": "Santa Barbara",
         "Location": "Hollister Ranch Road & Del Norte Road, southwest of Solvang",
-        "AcresBurned": 100,
-        "PercentContained": 70,
+        "AcresBurned": 120,
+        "PercentContained": 90,
         "ControlStatement": null,
         "AgencyNames": "",
-        "Longitude": -121.9015432,
-        "Latitude": 41.9525087,
+        "Longitude": -120.2770391,
+        "Latitude": 34.4687419,
         "Type": "Wildfire",
         "UniqueId": "d9f40570-e594-457b-bf33-9bb2eec13d50",
         "Url": "https://www.fire.ca.gov/incidents/2022/3/12/hollister-fire/",
